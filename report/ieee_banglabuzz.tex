@@ -1,0 +1,108 @@
+\documentclass[conference]{IEEEtran}
+
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{url}
+\usepackage{cite}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{hyperref}
+
+\begin{document}
+
+\title{BanglaBuzz: A Web and Text Mining Based News Trend and Sentiment Analysis System for Bangladeshi Media}
+
+\author{
+\IEEEauthorblockN{Amiyo Kumar}
+\IEEEauthorblockA{
+Department of Computer Science and Engineering \\
+[Your University Name] \\
+Email: amiyo@example.com}
+}
+
+\maketitle
+
+\begin{abstract}
+In recent years, the rapid growth of digital journalism and social media in Bangladesh has led to an overwhelming flow of information. Identifying trending topics, analyzing public sentiment, and detecting potential misinformation have become critical for data-driven insight. This paper presents \textit{BanglaBuzz}, a moderate-scale data mining system that combines Web Data Mining, Text Mining, Outlier Detection, and PageRank-based ranking to analyze Bangladeshi news content. The system collects news data from local online sources, extracts trending keywords, performs sentiment analysis, ranks news sources based on influence, and flags potential outlier articles. The project aims to provide a concise dashboard displaying top trends, sentiment flow, and influential sources in the Bangladeshi media landscape.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Data Mining, Sentiment Analysis, PageRank, Text Mining, Bangladesh, News Analytics
+\end{IEEEkeywords}
+
+\section{Introduction}
+The consumption of online news in Bangladesh has expanded rapidly through digital platforms such as \textit{bdnews24.com}, \textit{The Daily Star}, and \textit{Prothom Alo}. However, the abundance of information introduces challenges in distinguishing credible sources and understanding collective sentiment trends. The motivation behind \textit{BanglaBuzz} is to leverage data mining techniques to identify trending topics, sentiment tendencies, and influential media sources from web-based news data.
+
+\section{Objectives}
+The main objectives of this project are as follows:
+\begin{itemize}
+    \item To collect and preprocess online news data from Bangladeshi sources.
+    \item To extract trending topics using text mining techniques.
+    \item To perform sentiment analysis on news headlines or articles.
+    \item To apply the PageRank algorithm to rank news sources by influence.
+    \item To detect outlier or potentially fake news based on linguistic and statistical anomalies.
+    \item To visualize the results in a simple interactive dashboard or notebook.
+\end{itemize}
+
+\section{Methodology}
+The proposed system consists of five main modules as shown in Fig.~\ref{fig:flow}:
+
+\subsection{A. Data Collection}
+Web scraping is performed using Python libraries such as \texttt{BeautifulSoup} and \texttt{newspaper3k} to gather articles, headlines, and publication metadata from selected Bangladeshi news portals.
+
+\subsection{B. Text Preprocessing}
+The collected data undergoes cleaning, tokenization, and stopword removal. For Bangla text, the \texttt{BanglaNLP} library is utilized. The processed corpus is then transformed using TF-IDF representations for analysis.
+
+\subsection{C. Sentiment Analysis}
+Sentiment scores (positive, negative, neutral) are generated using a fine-tuned pre-trained transformer model (\texttt{BanglaBERT}). These scores are aggregated over time to visualize sentiment trends on major topics.
+
+\subsection{D. Outlier Detection}
+A simple density-based method (DBSCAN) is applied to identify potential outlier articles with abnormal linguistic structures or exaggerated emotional tone, often indicative of fake or clickbait content.
+
+\subsection{E. PageRank-Based Source Ranking}
+The \texttt{networkx} implementation of PageRank is used to rank media sources based on citation, hyperlink, or reference patterns extracted from the dataset.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.47\textwidth]{data_flow.png}
+    \caption{Proposed Data Flow of the BanglaBuzz System}
+    \label{fig:flow}
+\end{figure}
+
+\section{Data Flow and Architecture}
+The system follows a linear data flow:
+\begin{enumerate}
+    \item Collect online news → 
+    \item Preprocess text → 
+    \item Perform sentiment and outlier analysis → 
+    \item Rank sources using PageRank → 
+    \item Display summary on dashboard.
+\end{enumerate}
+
+All intermediate results (sentiment trends, keyword frequencies, and rankings) are visualized in an interactive environment such as \texttt{Streamlit} or a Jupyter notebook.
+
+\section{Expected Output}
+The expected results of the system include:
+\begin{itemize}
+    \item Identification of top 10 trending topics in Bangladeshi news.
+    \item Visualization of sentiment trends over time for major topics.
+    \item Ranking of the top 5 influential news sources using PageRank.
+    \item Detection and flagging of potential fake or outlier news articles.
+    \item A concise dashboard summarizing the above results.
+\end{itemize}
+
+\section{Conclusion}
+\textit{BanglaBuzz} demonstrates a practical application of data mining methods in the Bangladeshi media context. The integration of text mining, sentiment analysis, and PageRank provides interpretable insights into online news ecosystems. Future extensions may include advanced deep-learning-based fake news detection and real-time monitoring of social media feeds.
+
+\section*{Acknowledgment}
+The author would like to thank the course instructors and peers for their valuable feedback during the design and development of this project.
+
+\bibliographystyle{IEEEtran}
+\begin{thebibliography}{00}
+\bibitem{b1} J. Han, M. Kamber, and J. Pei, \textit{Data Mining: Concepts and Techniques}, 4th ed., Elsevier, 2022.
+\bibitem{b2} S. Bird, E. Klein, and E. Loper, \textit{Natural Language Processing with Python}, O'Reilly Media, 2009.
+\bibitem{b3} A. Page et al., “The PageRank Citation Ranking: Bringing Order to the Web,” Stanford InfoLab, 1999.
+\bibitem{b4} S. Banik et al., “BanglaBERT: Transformer-Based Language Model for Bengali,” \textit{arXiv preprint arXiv:2101.00204}, 2021.
+\end{thebibliography}
+
+\end{document}

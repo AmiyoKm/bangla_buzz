@@ -1,0 +1,17 @@
+beautifulsoup4
+requests
+newspaper3k
+pandas
+numpy
+scikit-learn
+scipy>=1.11
+nltk
+bnlp_toolkit
+transformers
+torch
+sentencepiece
+networkx
+streamlit
+plotly
+python-dateutil
+python-dotenv
