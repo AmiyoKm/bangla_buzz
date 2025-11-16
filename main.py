@@ -1,31 +1,43 @@
 import argparse
+import os
+from src.scraper import scrape_news
+from src.preprocess import preprocess_data
+
+from src.topics import find_topics
+from src.sentiment import analyze_sentiment
+from src.outlier import detect_outliers
+
 
 def run_scraping():
-    pass
+    print("Running scraping...")
+    scrape_news()
 
 
 def run_preprocessing():
-    pass
+    print("Running preprocessing...")
+    preprocess_data()
 
 
 def run_topic_modeling():
-    pass
+    print("Running topic modeling...")
+    find_topics()
 
 
 def run_sentiment_analysis():
-    pass
-
-
-def run_pagerank():
-    pass
+    print("Running sentiment analysis...")
+    analyze_sentiment()
 
 
 def run_outlier_detection():
-    pass
+    print("Running outlier detection...")
+    detect_outliers()
 
 
 def run_dashboard():
-    pass
+    print("Launching Streamlit dashboard...")
+    # Streamlit apps must be run directly with 'streamlit run'
+    # This command will block until the Streamlit app is closed
+    os.system("streamlit run src/dashboard.py")
 
 
 def main():
@@ -60,7 +72,6 @@ def main():
         run_preprocessing()
         run_topic_modeling()
         run_sentiment_analysis()
-        run_pagerank()
         run_outlier_detection()
         print("\nPipeline finished! Run with --dashboard to see the results.")
     else:
@@ -72,8 +83,6 @@ def main():
             run_topic_modeling()
         if args.sentiment:
             run_sentiment_analysis()
-        if args.pagerank:
-            run_pagerank()
         if args.outlier:
             run_outlier_detection()
         if args.dashboard:
