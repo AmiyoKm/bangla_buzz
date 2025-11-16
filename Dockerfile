@@ -15,12 +15,16 @@ FROM python:3.9-slim
 
 WORKDIR /app
 
+# Install uv in the final image
+RUN pip install uv
+
 # Copy the virtual environment from the builder stage
 COPY --from=builder /app/.venv .venv
 
 # Copy the application source code and data
 COPY src/ ./src/
-COPY data/ ./data/
+COPY main.py main.py
+COPY data data
 
 # Add the virtual environment's bin to the PATH
 ENV PATH="/app/.venv/bin:$PATH"

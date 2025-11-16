@@ -23,10 +23,3 @@ report/
 .dockerignore
 Dockerfile
 README.md
-uv.lock
-pyproject.toml
-.python-version
-LICENSE
-config.json
-main.py
-requirements.txt
