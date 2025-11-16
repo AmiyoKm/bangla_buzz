@@ -29,12 +29,19 @@ def analyze_sentiment():
     )
 
     # Perform sentiment analysis on each title
-    df['Sentiment'] = df['Title'].apply(
-        lambda x: sentiment_pipeline(x)[0]['label'] if x.strip() else 'neutral'
-    )
-    df['Sentiment_Score'] = df['Title'].apply(
-        lambda x: sentiment_pipeline(x)[0]['score'] if x.strip() else 0.0
-    )
+    def get_sentiment_details(text):
+        if not text.strip():
+            return 'Neutral', 0.0
+        result = sentiment_pipeline(text)[0]
+        return result['label'], result['score']
+
+    # Get both label and score in one go
+    details = df['Title'].apply(get_sentiment_details)
+    
+    # Map labels and assign to columns
+    label_map = {'LABEL_1': 'Positive', 'LABEL_0': 'Negative', 'neutral': 'Neutral'}
+    df['Sentiment'] = details.apply(lambda x: label_map.get(x[0], 'Unknown'))
+    df['Sentiment_Score'] = details.apply(lambda x: x[1])
 
     df.to_csv(output_path, index=False, encoding="utf-8")
     print(f"Sentiment analysis complete. Data with sentiment saved to {output_path}")

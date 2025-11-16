@@ -2,7 +2,7 @@ import os
 
 import numpy as np
 import pandas as pd
-from sklearn.cluster import DBSCAN
+from sklearn.ensemble import IsolationForest
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import StandardScaler
 
@@ -50,11 +50,13 @@ def detect_outliers():
     scaler = StandardScaler()
     scaled_features = scaler.fit_transform(features)
 
-    # 4. Apply DBSCAN
-    dbscan = DBSCAN(eps=5, min_samples=5)
-    clusters = dbscan.fit_predict(scaled_features)
+    # 4. Apply Isolation Forest
+    # 'contamination' determines the proportion of outliers. 'auto' is a good default.
+    iso_forest = IsolationForest(contamination=0.1, random_state=42)
+    clusters = iso_forest.fit_predict(scaled_features)
 
-    df["is_outlier"] = clusters == -1
+    # Outliers are labeled as -1 by IsolationForest as well
+    df['is_outlier'] = clusters == -1
 
     # 5. Save the results
     df.to_csv(output_path, index=False, encoding="utf-8")

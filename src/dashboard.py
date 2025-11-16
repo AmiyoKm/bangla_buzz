@@ -51,8 +51,7 @@ def show_dashboard():
         col2.metric("Outliers Detected", f"{num_outliers}")
         
         if num_articles > 0:
-            sentiment_df['Sentiment_Label'] = sentiment_df['Sentiment'].map({'LABEL_1': 'Positive', 'LABEL_0': 'Negative'}).fillna('Unknown')
-            positive_sentiments = (sentiment_df['Sentiment_Label'] == 'Positive').sum()
+            positive_sentiments = (sentiment_df['Sentiment'] == 'Positive').sum()
             col3.metric("Positive Sentiment Articles", f"{positive_sentiments} ({((positive_sentiments/num_articles)*100):.1f}%)")
 
     elif page == "Trending Topics":
@@ -69,10 +68,8 @@ def show_dashboard():
     elif page == "Sentiment Analysis":
         st.header("Sentiment Analysis of News Headlines")
 
-        sentiment_df['Sentiment_Label'] = sentiment_df['Sentiment'].map({'LABEL_1': 'Positive', 'LABEL_0': 'Negative'}).fillna('Unknown')
-
         st.subheader("Overall Sentiment Distribution")
-        sentiment_counts = sentiment_df['Sentiment_Label'].value_counts()
+        sentiment_counts = sentiment_df['Sentiment'].value_counts()
         
         if not sentiment_counts.empty:
             fig = px.pie(
@@ -80,7 +77,7 @@ def show_dashboard():
                 values=sentiment_counts.values, 
                 names=sentiment_counts.index, 
                 title="Sentiment Distribution",
-                color_discrete_map={'Positive':'green', 'Negative':'red', 'Unknown':'grey'}
+                color_discrete_map={'Positive':'green', 'Negative':'red', 'Neutral':'blue', 'Unknown':'grey'}
             )
             st.plotly_chart(fig, use_container_width=True)
         else:
@@ -89,11 +86,11 @@ def show_dashboard():
         st.subheader("Sample Articles")
         
         st.write("Most Positive Articles")
-        positive_samples = sentiment_df[sentiment_df['Sentiment_Label'] == 'Positive'].sort_values(by='Sentiment_Score', ascending=False).head(5)
+        positive_samples = sentiment_df[sentiment_df['Sentiment'] == 'Positive'].sort_values(by='Sentiment_Score', ascending=False).head(5)
         st.dataframe(positive_samples[['Title', 'Source', 'Sentiment_Score']])
 
         st.write("Most Negative Articles")
-        negative_samples = sentiment_df[sentiment_df['Sentiment_Label'] == 'Negative'].sort_values(by='Sentiment_Score', ascending=False).head(5)
+        negative_samples = sentiment_df[sentiment_df['Sentiment'] == 'Negative'].sort_values(by='Sentiment_Score', ascending=False).head(5)
         st.dataframe(negative_samples[['Title', 'Source', 'Sentiment_Score']])
 
 
