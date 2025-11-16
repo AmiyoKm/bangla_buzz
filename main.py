@@ -3,6 +3,10 @@ from src.scraper import scrape_news
 from src.preprocess import preprocess_data
 
 
+from src.topics import find_topics
+from src.sentiment import analyze_sentiment
+
+
 def run_scraping():
     print("Running scraping...")
     scrape_news()
@@ -14,11 +18,13 @@ def run_preprocessing():
 
 
 def run_topic_modeling():
-    pass
+    print("Running topic modeling...")
+    find_topics()
 
 
 def run_sentiment_analysis():
-    pass
+    print("Running sentiment analysis...")
+    analyze_sentiment()
 
 
 def run_pagerank():

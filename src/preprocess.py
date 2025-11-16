@@ -20,6 +20,9 @@ def preprocess_data():
     if "Text" in df.columns:
         df["Text"] = df["Text"].fillna("")
 
+    # Remove numbers (Bengali and English digits) from title
+    df['Title'] = df['Title'].str.replace(r'[০-৯0-9]', '', regex=True)
+
     # Remove stopwords from title
     bengali_stopwords = _stopwords.bengali_stopwords
     df["Title"] = df["Title"].apply(
