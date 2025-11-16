@@ -103,6 +103,12 @@ uv run python3 main.py --dashboard
 
 This will start the Streamlit application, and you can access it in your web browser at `http://localhost:8501`.
 
+## Live Demo
+
+You can access a live version of the BanglaBuzz dashboard here:
+
+[https://bangla-buzz.onrender.com/](https://bangla-buzz.onrender.com/)
+
 ## Data Flow
 
 1.  **Raw Data:** The `scraper.py` script scrapes news headlines and stores them in `data/raw_data.csv`.

@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 GEMINI.md
+
+raw_data.csv
+clean_news.csv
+topics.json
+news_with_outliers.csv
+news_with_sentiment.csv
