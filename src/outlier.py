@@ -8,9 +8,6 @@ from sklearn.preprocessing import StandardScaler
 
 
 def detect_outliers():
-    """
-    Detects outlier articles based on linguistic features and sentiment scores.
-    """
     input_path = "data/news_with_sentiment.csv"
     output_path = "data/news_with_outliers.csv"
 

@@ -1,4 +1,5 @@
 import argparse
+import os
 from src.scraper import scrape_news
 from src.preprocess import preprocess_data
 
@@ -33,7 +34,10 @@ def run_outlier_detection():
 
 
 def run_dashboard():
-    pass
+    print("Launching Streamlit dashboard...")
+    # Streamlit apps must be run directly with 'streamlit run'
+    # This command will block until the Streamlit app is closed
+    os.system("streamlit run src/dashboard.py")
 
 
 def main():
@@ -79,7 +83,6 @@ def main():
             run_topic_modeling()
         if args.sentiment:
             run_sentiment_analysis()
-        if args.pagerank:
         if args.outlier:
             run_outlier_detection()
         if args.dashboard:

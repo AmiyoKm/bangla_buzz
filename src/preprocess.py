@@ -3,9 +3,6 @@ from bnlp.corpus import _stopwords
 import os
 
 def preprocess_data():
-    """
-    Reads raw news data, cleans it, removes stopwords, and saves the result.
-    """
     input_path = "data/raw_data.csv"
     output_path = "data/clean_news.csv"
 
@@ -15,21 +12,17 @@ def preprocess_data():
 
     df = pd.read_csv(input_path)
 
-    # Fill missing values
     df["Title"] = df["Title"].fillna("")
     if "Text" in df.columns:
         df["Text"] = df["Text"].fillna("")
 
-    # Remove numbers (Bengali and English digits) from title
     df['Title'] = df['Title'].str.replace(r'[০-৯0-9]', '', regex=True)
 
-    # Remove stopwords from title
     bengali_stopwords = _stopwords.bengali_stopwords
     df["Title"] = df["Title"].apply(
         lambda x: " ".join([word for word in str(x).split() if word not in bengali_stopwords])
     )
 
-    # Save cleaned data
     df.to_csv(output_path, index=False, encoding="utf-8")
     print(f"Preprocessing complete. Cleaned data saved to {output_path}")
 
