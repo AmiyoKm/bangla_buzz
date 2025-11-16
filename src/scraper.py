@@ -5,9 +5,8 @@ from bs4 import BeautifulSoup
 
 SOURCES = [
     "https://www.prothomalo.com/",
-    "https://www.prothomalo.com/bangladesh",
-    "https://www.prothomalo.com/world",
-    "https://www.prothomalo.com/politics",
+    "https://bangla.bdnews24.com/",
+    "https://bangla.thedailystar.net/"
 ]
 
 
@@ -15,11 +14,11 @@ def scrape_news():
     csv_filename = "data/raw_data.csv"
     data_to_save = []
     seen_titles = set()
-    
+
     for source in SOURCES:
         req = requests.get(source, headers={"User-Agent": "Mozilla/5.0"})
         soup = BeautifulSoup(req.content, "html.parser")
-        title_tags = soup.find_all("span", class_="tilte-no-link-parent")
+        title_tags = soup.find_all("span", class_="tilte-no-link-parent") + soup.find_all("h4",class_="title") + soup.find_all("h2", class_="Title")
 
         for title_tag in title_tags:
             title = title_tag.text.strip()
