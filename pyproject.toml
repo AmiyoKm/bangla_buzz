@@ -1,7 +1,28 @@
 [project]
 name = "banglabuzz"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python-based news analysis pipeline that scrapes, analyzes, and visualizes news from Bangladeshi sources."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+authors = [
+    { name = "Amiyo", email = "omimondol18@gmail.com" }
+]
+dependencies = [
+    "beautifulsoup4",
+    "requests",
+    "newspaper3k",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "scipy>=1.11",
+    "nltk",
+    "bnlp_toolkit",
+    "transformers",
+    "torch",
+    "sentencepiece",
+    "networkx",
+    "streamlit",
+    "plotly",
+    "python-dateutil",
+    "python-dotenv"
+]
