@@ -1,7 +1,9 @@
 import argparse
+from src.scraper import scrape_news
 
 def run_scraping():
-    pass
+    print("Running scraping...")
+    scrape_news()
 
 
 def run_preprocessing():
