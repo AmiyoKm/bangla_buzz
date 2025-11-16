@@ -1,0 +1,691 @@
+Title,Source,Sentiment,Sentiment_Score,is_outlier
+শেখ হাসিনার মামলার রায় সরাসরি সম্প্রচার হবে: প্রসিকিউটর গাজী মোনাওয়ার,https://www.prothomalo.com/,LABEL_0,0.623699426651001,True
+আলো এক্সপ্লেইনার গণভোটে ‘না’ জয়ী,https://www.prothomalo.com/,LABEL_1,0.6779548525810242,True
+গাজীপুরে গভীর রাতে গ্রামীণ ব্যাংকে পেট্রলবোমা হামলা,https://www.prothomalo.com/,LABEL_0,0.9714139103889464,True
+"মাদারীপুরে মহাসড়কে গাছ ফেলে অবরোধ, ঘণ্টার চলাচল স্বাভাবিক",https://www.prothomalo.com/,LABEL_0,0.9291902780532836,True
+ফাঁকা ঢাকার আসন চিন্তা বিএনপিতে,https://www.prothomalo.com/,LABEL_1,0.9082857966423036,True
+রুপি কম পাবেন জেনেও চেন্নাই ছাড়লেন জাদেজা,https://www.prothomalo.com/,LABEL_0,0.5948007106781006,True
+মতামত পাকিস্তানের ট্রাম্পের আঁতাত বিপজ্জনক,https://www.prothomalo.com/,LABEL_0,0.9913668036460876,True
+মতামত সরকারি পে স্কেলে সংস্কার,https://www.prothomalo.com/,LABEL_1,0.9733282327651978,True
+ক্রাউন সিমেন্ট অভিজ্ঞতার আলো : সিরাজুল ইসলাম চৌধুরী হৃদয়বান বুদ্ধিমান মানুষেরা পৃথিবীটাকে সুন্দর,https://www.prothomalo.com/,LABEL_1,0.994404673576355,True
+"ইসির সংলাপে ইসলামী ঐক্যজোটের দুপক্ষে তর্ক, একাংশকে বের হয়ে",https://www.prothomalo.com/,LABEL_0,0.7457204461097717,True
+পবিত্র ঈদুল ফিতরের সম্ভাব্য তারিখ জানাল আরব আমিরাত,https://www.prothomalo.com/,LABEL_1,0.9597663879394532,True
+"প্রতিষ্ঠাবার্ষিকীর লেখা বছর বয়সী ইংরেজির শিক্ষক, ফলোয়ার লাখ",https://www.prothomalo.com/,LABEL_1,0.9809162020683287,True
+লাল কার্ড হলুদ কার্ড দেখায় এগিয়ে—মেসি রোনালদো,https://www.prothomalo.com/,LABEL_1,0.8886284232139587,True
+বই পর্যালোচনা রিগ্যান ট্রাম্প: যুক্তরাষ্ট্রের পতন চীনের উত্থানের গল্প,https://www.prothomalo.com/,LABEL_0,0.9344450831413268,True
+ব্যাংকে ‘পরিবারতন্ত্রে’র লাগাম টানছে সরকার,https://www.prothomalo.com/,LABEL_0,0.6511824727058411,True
+সিলেটে মোটরসাইকেলে অ্যাম্বুলেন্সে আগুন দিল দুর্বৃত্তরা,https://www.prothomalo.com/,LABEL_0,0.973152756690979,True
+রাজধানীর হাজারীবাগে মধ্যরাতে বাসে আগুন,https://www.prothomalo.com/,LABEL_0,0.9383884072303772,True
+"আটকে প্রাপ্তবয়স্কদের সনদ পাওয়া বাংলা সিনেমা, নেপথ্যে",https://www.prothomalo.com/,LABEL_0,0.8044301271438599,True
+সাতকানিয়ায় রেললাইনে গাছ ফেলে নাশকতার,https://www.prothomalo.com/,LABEL_0,0.9737704396247864,False
+"লিবিয়া উপকূলে বাংলাদেশি আরোহীবাহী নৌকাডুবি, মৃত্যু",https://www.prothomalo.com/,LABEL_0,0.9889919757843018,True
+শেখ হাসিনার মামলার রায় সরাসরি সম্প্রচার হবে: প্রসিকিউটর গাজী মোনাওয়ার,https://www.prothomalo.com/,LABEL_0,0.623699426651001,True
+আলো এক্সপ্লেইনার গণভোটে ‘না’ জয়ী,https://www.prothomalo.com/,LABEL_1,0.6779548525810242,True
+গাজীপুরে গভীর রাতে গ্রামীণ ব্যাংকে পেট্রলবোমা হামলা,https://www.prothomalo.com/,LABEL_0,0.9714139103889464,True
+"মাদারীপুরে মহাসড়কে গাছ ফেলে অবরোধ, ঘণ্টার চলাচল স্বাভাবিক",https://www.prothomalo.com/,LABEL_0,0.9291902780532836,True
+ফাঁকা ঢাকার আসন চিন্তা বিএনপিতে,https://www.prothomalo.com/,LABEL_1,0.9082857966423036,True
+রুপি কম পাবেন জেনেও চেন্নাই ছাড়লেন জাদেজা,https://www.prothomalo.com/,LABEL_0,0.5948007106781006,True
+মতামত পাকিস্তানের ট্রাম্পের আঁতাত বিপজ্জনক,https://www.prothomalo.com/,LABEL_0,0.9913668036460876,True
+মতামত সরকারি পে স্কেলে সংস্কার,https://www.prothomalo.com/,LABEL_1,0.9733282327651978,True
+ক্রাউন সিমেন্ট অভিজ্ঞতার আলো : সিরাজুল ইসলাম চৌধুরী হৃদয়বান বুদ্ধিমান মানুষেরা পৃথিবীটাকে সুন্দর,https://www.prothomalo.com/,LABEL_1,0.994404673576355,True
+"ইসির সংলাপে ইসলামী ঐক্যজোটের দুপক্ষে তর্ক, একাংশকে বের হয়ে",https://www.prothomalo.com/,LABEL_0,0.7457204461097717,True
+পবিত্র ঈদুল ফিতরের সম্ভাব্য তারিখ জানাল আরব আমিরাত,https://www.prothomalo.com/,LABEL_1,0.9597663879394532,True
+"প্রতিষ্ঠাবার্ষিকীর লেখা বছর বয়সী ইংরেজির শিক্ষক, ফলোয়ার লাখ",https://www.prothomalo.com/,LABEL_1,0.9809162020683287,True
+লাল কার্ড হলুদ কার্ড দেখায় এগিয়ে—মেসি রোনালদো,https://www.prothomalo.com/,LABEL_1,0.8886284232139587,True
+বই পর্যালোচনা রিগ্যান ট্রাম্প: যুক্তরাষ্ট্রের পতন চীনের উত্থানের গল্প,https://www.prothomalo.com/,LABEL_0,0.9344450831413268,True
+ব্যাংকে ‘পরিবারতন্ত্রে’র লাগাম টানছে সরকার,https://www.prothomalo.com/,LABEL_0,0.6511824727058411,True
+সিলেটে মোটরসাইকেলে অ্যাম্বুলেন্সে আগুন দিল দুর্বৃত্তরা,https://www.prothomalo.com/,LABEL_0,0.973152756690979,True
+রাজধানীর হাজারীবাগে মধ্যরাতে বাসে আগুন,https://www.prothomalo.com/,LABEL_0,0.9383884072303772,True
+"আটকে প্রাপ্তবয়স্কদের সনদ পাওয়া বাংলা সিনেমা, নেপথ্যে",https://www.prothomalo.com/,LABEL_0,0.8044301271438599,True
+সাতকানিয়ায় রেললাইনে গাছ ফেলে নাশকতার,https://www.prothomalo.com/,LABEL_0,0.9737704396247864,False
+"লিবিয়া উপকূলে বাংলাদেশি আরোহীবাহী নৌকাডুবি, মৃত্যু",https://www.prothomalo.com/,LABEL_0,0.9889919757843018,True
+আলো এক্সপ্লেইনার গণভোটে ‘না’ জয়ী,https://www.prothomalo.com/,LABEL_1,0.6779548525810242,True
+গাজীপুরে গভীর রাতে গ্রামীণ ব্যাংকে পেট্রলবোমা হামলা,https://www.prothomalo.com/,LABEL_0,0.9714139103889464,True
+"মাদারীপুরে মহাসড়কে গাছ ফেলে অবরোধ, ঘণ্টার চলাচল স্বাভাবিক",https://www.prothomalo.com/,LABEL_0,0.9291902780532836,True
+সিলেটে মোটরসাইকেলে অ্যাম্বুলেন্সে আগুন দিল দুর্বৃত্তরা,https://www.prothomalo.com/,LABEL_0,0.973152756690979,True
+রাজধানীর হাজারীবাগে মধ্যরাতে বাসে আগুন,https://www.prothomalo.com/,LABEL_0,0.9383884072303772,True
+"আটকে প্রাপ্তবয়স্কদের সনদ পাওয়া বাংলা সিনেমা, নেপথ্যে",https://www.prothomalo.com/,LABEL_0,0.8044301271438599,True
+সাতকানিয়ায় রেললাইনে গাছ ফেলে নাশকতার,https://www.prothomalo.com/,LABEL_0,0.9737704396247864,False
+"লিবিয়া উপকূলে বাংলাদেশি আরোহীবাহী নৌকাডুবি, মৃত্যু",https://www.prothomalo.com/,LABEL_0,0.9889919757843018,True
+শেখ হাসিনার মামলার রায় সরাসরি সম্প্রচার হবে: প্রসিকিউটর গাজী মোনাওয়ার,https://www.prothomalo.com/,LABEL_0,0.623699426651001,True
+ফাঁকা ঢাকার আসন চিন্তা বিএনপিতে,https://www.prothomalo.com/,LABEL_1,0.9082857966423036,True
+রুপি কম পাবেন জেনেও চেন্নাই ছাড়লেন জাদেজা,https://www.prothomalo.com/,LABEL_0,0.5948007106781006,True
+"ইসির সংলাপে ইসলামী ঐক্যজোটের দুপক্ষে তর্ক, একাংশকে বের হয়ে",https://www.prothomalo.com/,LABEL_0,0.7457204461097717,True
+পবিত্র ঈদুল ফিতরের সম্ভাব্য তারিখ জানাল আরব আমিরাত,https://www.prothomalo.com/,LABEL_1,0.9597663879394532,True
+"প্রতিষ্ঠাবার্ষিকীর লেখা বছর বয়সী ইংরেজির শিক্ষক, ফলোয়ার লাখ",https://www.prothomalo.com/,LABEL_1,0.9809162020683287,True
+লাল কার্ড হলুদ কার্ড দেখায় এগিয়ে—মেসি রোনালদো,https://www.prothomalo.com/,LABEL_1,0.8886284232139587,True
+বই পর্যালোচনা রিগ্যান ট্রাম্প: যুক্তরাষ্ট্রের পতন চীনের উত্থানের গল্প,https://www.prothomalo.com/,LABEL_0,0.9344450831413268,True
+ব্যাংকে ‘পরিবারতন্ত্রে’র লাগাম টানছে সরকার,https://www.prothomalo.com/,LABEL_0,0.6511824727058411,True
+মতামত পাকিস্তানের ট্রাম্পের আঁতাত বিপজ্জনক,https://www.prothomalo.com/,LABEL_0,0.9913668036460876,True
+মতামত সরকারি পে স্কেলে সংস্কার,https://www.prothomalo.com/,LABEL_1,0.9733282327651978,True
+ক্রাউন সিমেন্ট অভিজ্ঞতার আলো : সিরাজুল ইসলাম চৌধুরী হৃদয়বান বুদ্ধিমান মানুষেরা পৃথিবীটাকে সুন্দর,https://www.prothomalo.com/,LABEL_1,0.994404673576355,True
+কাদের সিদ্দিকীকে আদালতে হাজিরা লতিফ সিদ্দিকী,https://bangla.bdnews24.com/,LABEL_0,0.9268595576286316,True
+ইস্কাটনে হাতবোমা বিস্ফোরণে পথচারী আহত,https://bangla.bdnews24.com/,LABEL_0,0.8897979855537415,True
+মেয়র হত্যাকাণ্ডের প্রতিবাদে মেক্সিকোজুড়ে জেন-জি বিক্ষোভ,https://bangla.bdnews24.com/,LABEL_0,0.981835961341858,True
+"রাতে তিন বাসে আগুন, হাতবোমা বিস্ফোরণ",https://bangla.bdnews24.com/,LABEL_0,0.9484719038009644,True
+"সাবেক বিচারপতি মানিক, মন্ত্রীসহ আয়কর নথি জব্দের আদেশ",https://bangla.bdnews24.com/,LABEL_0,0.9416970610618592,True
+"বাংলাদেশি লিবিয়া উপকূলে নৌকাডুবি, লাশ উদ্ধার",https://bangla.bdnews24.com/,LABEL_0,0.9845728278160096,True
+অন্বেষার কত্থক নাচের ছন্দে 'আরো দাও প্রাণ',https://bangla.bdnews24.com/,LABEL_1,0.9956259727478028,True
+"অ্যাপল ছাড়তে টিম কুক, হচ্ছেন উত্তরসূরি?",https://bangla.bdnews24.com/,LABEL_1,0.6675191521644592,True
+নোয়াখালীর লোক কথা ‘নোয়াখালী এক্সপ্রেস’,https://bangla.bdnews24.com/,LABEL_1,0.9750226140022278,True
+সেকেন্ডে ফ্রেম ধারণ ‘ক্যামেরা’,https://bangla.bdnews24.com/,LABEL_1,0.9712042808532716,True
+ওটস আপেল কেক তৈরির পদ্ধতি,https://bangla.bdnews24.com/,LABEL_1,0.995371639728546,True
+প্লেনের আসন হেলাতে অতিরিক্ত অর্থ যাত্রীদের,https://bangla.bdnews24.com/,LABEL_0,0.8939585089683533,True
+"ম্যাচে গোল, আরেকটি জয়ে বিশ্বকাপের দ্বারপ্রান্তে স্পেন",https://bangla.bdnews24.com/,LABEL_1,0.9558963775634766,True
+শাকিবের ‘প্রিন্সেস’ তাসনিয়া ফারিণ,https://bangla.bdnews24.com/,LABEL_1,0.9109789729118348,True
+মাদকমুক্ত জামালপুর উপহার চাই: শাহ মো. ওয়ারেছ আলী,https://bangla.bdnews24.com/,LABEL_1,0.9425191283226012,True
+অ্যাশেজের বিপর্যস্ত অস্ট্রেলিয়া,https://bangla.bdnews24.com/,LABEL_0,0.893964409828186,True
+বাংলাদেশের ইতিহাসে দ্রুততম সেঞ্চুরির রেকর্ড সোহানের,https://bangla.bdnews24.com/,LABEL_1,0.9854769110679626,True
+হাই কোর্টের ড্রামে লাশ: আসামি পাঁচ দিনের রিমান্ডে,https://bangla.bdnews24.com/,LABEL_0,0.9765450358390808,True
+"কাশ্মীরের শ্রীনগরের থানায় বিস্ফোরণ, নিহত আহত",https://bangla.bdnews24.com/,LABEL_0,0.946671426296234,True
+শুধুমাত্র বগুড়ায় বাড়ি হওয়ার কারণে যুবকরা বৈষম্যের শিকার হয়েছে: রফিকুল ইসলাম,https://bangla.bdnews24.com/,LABEL_0,0.9093984961509703,True
+ক্ষমতায় ‘আল্লাহর ওপর আস্থা বিশ্বাস সংবিধানে পুনর্বহাল করবে’ বিএনপি,https://bangla.bdnews24.com/,LABEL_1,0.5902726650238037,True
+"স্যামসন নয়, রুতুরাজই চেন্নাইয়ের অধিনায়ক",https://bangla.bdnews24.com/,LABEL_1,0.9874976873397828,True
+টেস্টের মাঝপথে হাসপাতালে ভর্তি শুবমান গিল,https://bangla.bdnews24.com/,LABEL_0,0.6695061326026917,True
+দুইবার আইপিএল জয়ী রাসেলকে ছেড়ে দিল কলকাতা,https://bangla.bdnews24.com/,LABEL_1,0.9324982762336732,True
+স্পিনারদের দাপটে জয়ের সুবাস পাচ্ছে ভারত,https://bangla.bdnews24.com/,LABEL_1,0.9633218050003052,True
+"সানজামুলের সেঞ্চুরি, রবিউলের উইকেট",https://bangla.bdnews24.com/,LABEL_1,0.9558711051940918,True
+"ফিফটি, সেঞ্চুরি, সোহানের রেকর্ডময় ইনিংস",https://bangla.bdnews24.com/,LABEL_1,0.9879552125930786,True
+শেবাগকে ছাড়িয়ে ভারতের ছক্কার রাজা পান্ত,https://bangla.bdnews24.com/,LABEL_1,0.6457809209823608,True
+শুভ কিবরিয়া,https://bangla.bdnews24.com/,LABEL_1,0.997664213180542,True
+লুৎফুল হোসেন,https://bangla.bdnews24.com/,LABEL_1,0.9909549355506896,True
+মুত্তাকি বিন কামাল,https://bangla.bdnews24.com/,LABEL_1,0.9980144500732422,False
+আমীন আল রশীদ,https://bangla.bdnews24.com/,LABEL_1,0.9970855116844176,True
+"মাদারীপুরে গাছ ফেলে সড়ক অবরোধ, ঘণ্টা চলাচল বন্ধ",https://bangla.bdnews24.com/,LABEL_0,0.9442705512046814,True
+"‘ঝটিকা মিছিল-নাশকতার চেষ্টা’, আওয়ামী লীগের নেতাকর্মী আটক",https://bangla.bdnews24.com/,LABEL_0,0.968985915184021,True
+মানিকগঞ্জে ছাত্রলীগের সাবেক নেতা গ্রেপ্তার,https://bangla.bdnews24.com/,LABEL_0,0.9265008568763732,True
+কাশিয়ানীতে গাছ ফেলে সড়ক অবরোধের ‘আওয়ামী লীগের’,https://bangla.bdnews24.com/,LABEL_0,0.9721602201461792,True
+সিলেটে গভীররাতে অ্যাম্বুলেন্স বাসে আগুন,https://bangla.bdnews24.com/,LABEL_0,0.9228032231330872,True
+ময়মনসিংহে দাঁড়িয়ে কভার্ড ভ্যানে আগুন,https://bangla.bdnews24.com/,LABEL_0,0.8674788475036621,True
+"ভাড়া ‘তর্ক-হাতাহাতি’, বরিশালে টার্মিনালে ‘শতাধিক’ বাস ভাঙচুর",https://bangla.bdnews24.com/,LABEL_0,0.9425086379051208,True
+বছর তারেকের শাহাদাতের,https://bangla.bdnews24.com/,LABEL_0,0.9463962316513062,True
+চট্টগ্রামে খুনোখুনি কেন?,https://bangla.bdnews24.com/,LABEL_0,0.9309719800949096,True
+‘গায়ে পড়ে ঝগড়া বাঁধালে’ চুপ থাকব না: বিএসপি চেয়ারম্যান,https://bangla.bdnews24.com/,LABEL_1,0.5137424468994141,True
+চট্টগ্রাম বন্দর: এনসিটি লালদিয়া ইজারার সিদ্ধান্তের প্রতিবাদে মশাল মিছিল,https://bangla.bdnews24.com/,LABEL_0,0.7320847511291504,True
+চট্টগ্রামে ব্যবসায়ীকে ‘ব্লেড দিয়ে খুঁচিয়ে খুঁচিয়ে মারার’ হুমকি,https://bangla.bdnews24.com/,LABEL_0,0.991636335849762,True
+"পরিসর ‘দ্বিগুণ’ চট্টগ্রাম চিড়িয়াখানার, প্রাণী জাদুঘরও",https://bangla.bdnews24.com/,LABEL_1,0.8877226710319519,True
+"চট্টগ্রামে মোবাইল মেকানিক খুন, গ্রেপ্তার",https://bangla.bdnews24.com/,LABEL_0,0.9286436438560486,True
+যুক্তরাষ্ট্রের সান ডিয়াগো উপকূলে নৌকা উল্টে মৃত্যু,https://bangla.bdnews24.com/,LABEL_0,0.9579817056655884,True
+মেয়র হত্যাকাণ্ডের প্রতিবাদে মেক্সিকোজুড়ে জেন-জি বিক্ষোভ,https://bangla.bdnews24.com/,LABEL_0,0.981835961341858,True
+"ঝড় ক্লাদিয়ায় পতুর্গালে নিহত , ব্রিটেনে বন্যা",https://bangla.bdnews24.com/,LABEL_0,0.9523062705993652,True
+"বাংলাদেশি লিবিয়া উপকূলে নৌকাডুবি, লাশ উদ্ধার",https://bangla.bdnews24.com/,LABEL_0,0.9845728278160096,True
+সামরিক উত্তেজনা বাড়ায় ভেনেজুয়েলাকে মার্কিন কর্মকর্তাদের বৈঠক,https://bangla.bdnews24.com/,LABEL_0,0.9764254689216614,True
+হরমুজ প্রণালীতে ট্যাঙ্কার আটক ইরান,https://bangla.bdnews24.com/,LABEL_0,0.978731632232666,True
+সেকেন্ডে ফ্রেম ধারণ ‘ক্যামেরা’,https://bangla.bdnews24.com/,LABEL_1,0.9712042808532716,True
+"অ্যাপল ছাড়তে টিম কুক, হচ্ছেন উত্তরসূরি?",https://bangla.bdnews24.com/,LABEL_1,0.6675191521644592,True
+"অ্যাপল, ওপেনএআইয়ের বিরুদ্ধে এক্স, এক্সএআইয়ের মামলা ‘চলবে’",https://bangla.bdnews24.com/,LABEL_0,0.8672180771827698,True
+ইনস্টাগ্রামের ব্রডকাস্ট চ্যানেলের টিকটকে ‘বুলেটিন বোর্ড’,https://bangla.bdnews24.com/,LABEL_1,0.804598867893219,True
+ঝুঁকিপূর্ণ কনটেন্ট সামাজিক শিশুদের নাগালেই,https://bangla.bdnews24.com/,LABEL_0,0.9641647338867188,True
+চ্যাটজিপিটিতে মজার ব্যক্তিত্ব ‘কোয়ার্কি’,https://bangla.bdnews24.com/,LABEL_1,0.9908623695373536,True
+প্লেনের আসন হেলাতে অতিরিক্ত অর্থ যাত্রীদের,https://bangla.bdnews24.com/,LABEL_0,0.8939585089683533,True
+সুপারনোভার ‘জন্মমুহূর্ত’ দেখলেন বিজ্ঞানীরা,https://bangla.bdnews24.com/,LABEL_1,0.8146246075630188,True
+অন্বেষার কত্থক নাচের ছন্দে 'আরো দাও প্রাণ',https://bangla.bdnews24.com/,LABEL_1,0.9956259727478028,True
+নোয়াখালীর লোক কথা ‘নোয়াখালী এক্সপ্রেস’,https://bangla.bdnews24.com/,LABEL_1,0.9750226140022278,True
+শাকিবের ‘প্রিন্সেস’ তাসনিয়া ফারিণ,https://bangla.bdnews24.com/,LABEL_1,0.9109789729118348,True
+ওয়ারফেজের নেপথ্যের গল্প শোনাবেন টিপু,https://bangla.bdnews24.com/,LABEL_1,0.967590630054474,True
+অমিতাভ রেজার সহযাত্রী সহযোদ্ধা হলেন,https://bangla.bdnews24.com/,LABEL_1,0.8913854360580444,True
+শাকিবের নায়িকা হানিয়া আমির? রহস্য ভাঙলেন নায়ক,https://bangla.bdnews24.com/,LABEL_0,0.5144742131233215,True
+‘দিদি নম্বর ’: রচনার মীর সঞ্চালনায়,https://bangla.bdnews24.com/,LABEL_1,0.9857980608940125,True
+ফুয়াদের সুরে কনার ‘ভিতর বাহিরে’,https://bangla.bdnews24.com/,LABEL_1,0.8691692352294922,True
+ওটস আপেল কেক তৈরির পদ্ধতি,https://bangla.bdnews24.com/,LABEL_1,0.995371639728546,True
+নভেম্বর রাশিফল,https://bangla.bdnews24.com/,LABEL_1,0.9895333647727966,True
+ঢাকা মেকার্সের হাতে কলমে শেখার উৎসব,https://bangla.bdnews24.com/,LABEL_1,0.9264463782310486,True
+ছোট বসার ঘর যেভাবে বড় দেখানো যায়,https://bangla.bdnews24.com/,LABEL_1,0.9879814982414246,True
+ব্যস্ত শহরে রান্নার বন্ধু ‘রেডি টু কুক’,https://bangla.bdnews24.com/,LABEL_1,0.9882549047470092,True
+সময় বাঁচিয়ে সাজগোজ,https://bangla.bdnews24.com/,LABEL_1,0.9947072267532348,True
+কই মাছ ভুনা রান্নার সহজ রেসিপি,https://bangla.bdnews24.com/,LABEL_1,0.9971503615379332,True
+সালসা নাচ শিখতে চাইলে,https://bangla.bdnews24.com/,LABEL_1,0.9924591183662416,True
+"মৌসুমে গোল করলেও লাভ নেই, কেইনের চাওয়া দলীয় শিরোপা",https://bangla.bdnews24.com/,LABEL_1,0.8023889064788818,True
+"ম্যাচে গোল, আরেকটি জয়ে বিশ্বকাপের দ্বারপ্রান্তে স্পেন",https://bangla.bdnews24.com/,LABEL_1,0.9558963775634766,True
+টিভিতে রোববারের খেলা,https://bangla.bdnews24.com/,LABEL_1,0.994860053062439,True
+সেনেগালের বিপক্ষে জয়ের হাসি ব্রাজিলের,https://bangla.bdnews24.com/,LABEL_1,0.9570788145065308,True
+বিশ্বকাপের দেড় লাখ জনসংখ্যার দেশ কুরাসাও,https://bangla.bdnews24.com/,LABEL_0,0.5494768023490906,True
+ভারতকে হারিয়ে ‘প্রথম জয়’ পেতে শোমিত,https://bangla.bdnews24.com/,LABEL_1,0.615683913230896,True
+ফারুক মঈনউদ্দীন,https://bangla.bdnews24.com/,LABEL_1,0.9971498847007751,True
+কামরুল আহসান,https://bangla.bdnews24.com/,LABEL_1,0.995703399181366,True
+আশরাফ আহমেদ,https://bangla.bdnews24.com/,LABEL_1,0.9960024952888488,True
+মনিকা চক্রবর্তী,https://bangla.bdnews24.com/,LABEL_1,0.9950372576713562,True
+নভেম্বর,https://bangla.bdnews24.com/,LABEL_1,0.6964197158813477,True
+নোঙর তুলল শতবর্ষী পিএস মাহসুদ,https://bangla.bdnews24.com/,LABEL_1,0.9766004085540771,True
+পুলিশ নামছে পোশাকে,https://bangla.bdnews24.com/,LABEL_1,0.9593017101287842,True
+ঠান্ডা হাওয়ায় ভিড় বেড়েছে কম্বলের বাজারে,https://bangla.bdnews24.com/,LABEL_1,0.9563873410224916,True
+জাপানি কবিতা ‘হাইকু’: তিন লাইনের বিস্ময়,https://bangla.bdnews24.com/,LABEL_1,0.9928923845291138,True
+"চীনের অচিন পথে, ষষ্ঠ পর্ব",https://bangla.bdnews24.com/,LABEL_1,0.9844730496406556,True
+মাইগ্র্যান্ট ব্যান্ড: সিঙ্গাপুরে বাংলাদেশি শ্রমিকদের গানের দল,https://bangla.bdnews24.com/,LABEL_1,0.968617022037506,True
+ভলতেয়ার: কয়েদি নাট্যকার হওয়ার গল্প,https://bangla.bdnews24.com/,LABEL_0,0.9504602551460266,True
+"চীনের অচিন পথে, পঞ্চম পর্ব",https://bangla.bdnews24.com/,LABEL_1,0.9858261942863464,True
+কর্মশালায় অংশ আত্মবিশ্বাস বেড়েছে,https://bangla.bdnews24.com/,LABEL_1,0.9909313917160034,True
+রাণীনগরে ক্রীড়া প্রতিযোগিতা,https://bangla.bdnews24.com/,LABEL_1,0.9877605438232422,True
+"টাঙ্গাইলের প্রাথমিকে ‘প্লে-গ্রাউন্ড’ স্থাপন, উচ্ছ্বসিত শিক্ষার্থীরা",https://bangla.bdnews24.com/,LABEL_1,0.9661820530891418,True
+স্কুলে সংগীত শিক্ষক চাই,https://bangla.bdnews24.com/,LABEL_1,0.9943208694458008,True
+কথার জাদুতে অমর হুমায়ূন আহমেদ,https://bangla.bdnews24.com/,LABEL_1,0.9972283244132996,True
+মনের যত্ন নেওয়াও জরুরি,https://bangla.bdnews24.com/,LABEL_1,0.9938325881958008,True
+বাল্যবিয়ে মুক্ত দেশের স্বপ্ন দেখি,https://bangla.bdnews24.com/,LABEL_1,0.7260855436325073,True
+এআই ব্যবহারের সীমা কোথায়?,https://bangla.bdnews24.com/,LABEL_1,0.9434804320335388,True
+তৃতীয় চালানে যুক্তরাষ্ট্র টন গম,https://bangla.bdnews24.com/,LABEL_1,0.9345610737800598,True
+"ডাচ্-বাংলার এজেন্ট ব্যাংকিংয়ে 'টাকা আত্মসাৎ', এমডিসহ বিরুদ্ধে মামলা",https://bangla.bdnews24.com/,LABEL_0,0.8004791140556335,True
+জমি-ফ্ল্যাট বিক্রি: দ্বিতীয়বার ফি পারবে ডেভেলপার কোম্পানি,https://bangla.bdnews24.com/,LABEL_0,0.6859862804412842,True
+"কিউকম সিইও রিপন কারাগারে, রিমান্ড শুনানি বুধবার",https://bangla.bdnews24.com/,LABEL_1,0.6498486995697021,True
+দারাজ .: বছরের ‘সবচেয়ে বড় ছাড়ে’ ঘরের সেরা পণ্য কেনার সময় এখনই!,https://bangla.bdnews24.com/,LABEL_1,0.9689707159996032,True
+রবির ব্র্যান্ড অ্যাম্বাসেডর হলেন ফুটবলার হামজা,https://bangla.bdnews24.com/,LABEL_1,0.970215916633606,True
+"হ্যান্ডসেটের শুল্ক কমানো, বাজারে ফোন বৈধ চায় বিটিআরসি",https://bangla.bdnews24.com/,LABEL_1,0.9077746868133544,True
+দেশে প্রক্রিয়াজাত খাদ্যের বাজার দশমিক বিলিয়ন ডলারের: কর্মশালা,https://bangla.bdnews24.com/,LABEL_1,0.9597917795181274,True
+কাঠামোগত সংস্কারে বাংলাদেশ ‘উল্লেখযোগ্য’ অগ্রগতি করেছে: আইএমএফ,https://bangla.bdnews24.com/,LABEL_1,0.9585521221160888,True
+লালদিয়া বন্দর নির্মাণ-পরিচালনার পাচ্ছে ডেনমার্কের এপিএম টার্মিনালস,https://bangla.bdnews24.com/,LABEL_0,0.6876404285430908,True
+একনেকে টাকার প্রকল্প অনুমোদন,https://bangla.bdnews24.com/,LABEL_1,0.9117864966392516,True
+"মূল্যস্ফীতি কমে .%, মাসের সর্বনিম্ন",https://bangla.bdnews24.com/,LABEL_1,0.841447651386261,True
+মূল্যস্ফীতি শতাংশ সুদহার কমানোর পরামর্শ আইএমএফের,https://bangla.bdnews24.com/,LABEL_1,0.5572165846824646,True
+বিদেশি ঋণ: প্রান্তিকে অর্থছাড় বাড়ল %,https://bangla.bdnews24.com/,LABEL_1,0.7466960549354553,True
+সঞ্চয়পত্রের অর্থ আত্মসাৎ: তদন্তে কমিটি গঠন অর্থ মন্ত্রণালয়ের,https://bangla.bdnews24.com/,LABEL_1,0.6356050968170166,True
+ই-রিটার্ন ‘সমর্থ হলে’ জানাতে নভেম্বরের,https://bangla.bdnews24.com/,LABEL_1,0.9091278314590454,True
+মিউচুয়াল ফান্ড বিধিমালা সংশোধন: বিনিয়োগ পরিচালক হওয়া,https://bangla.bdnews24.com/,LABEL_1,0.8280959129333496,True
+পুঁজিবাজার: লাখের কম বিনিয়োগে মিলবে মার্জিন ঋণ,https://bangla.bdnews24.com/,LABEL_1,0.8391838669776917,True
+মার্জারে শেয়ারধারীদের স্বার্থ রক্ষার সুযোগ নেই: বাংলাদেশ ব্যাংক,https://bangla.bdnews24.com/,LABEL_1,0.7885423302650452,True
+মার্জারে ব্যাংকের শেয়ার লেনদেন স্থগিত,https://bangla.bdnews24.com/,LABEL_1,0.8279909491539001,True
+আইএফআইসি বন্ডে প্রতারণা: সাবেক এমডি সারওয়ারকে টাকা অর্থদণ্ড,https://bangla.bdnews24.com/,LABEL_0,0.6846861243247986,True
+টাকা আত্মসাৎ: রিং শাইনের উদ্যোক্তা পরিচালকসহ বিদেশির দেশত্যাগে নিষেধাজ্ঞা,https://bangla.bdnews24.com/,LABEL_0,0.8562043905258179,True
+ডিবিএ প্রেসিডেন্ট হলেন সাইফুল ইসলাম,https://bangla.bdnews24.com/,LABEL_1,0.9594024419784546,True
+এলআর গ্লোবালের রিয়াজ ইসলাম শেয়ারবাজারে ‘আজীবন নিষিদ্ধ’,https://bangla.bdnews24.com/,LABEL_0,0.887089729309082,True
+ব্রুকলিনে বিজয় উৎসবে মামদানি,https://bangla.bdnews24.com/,LABEL_0,0.7479985952377319,True
+ছবিতে কাঠমান্ডুর বিক্ষোভ,https://bangla.bdnews24.com/,LABEL_1,0.9661937355995178,True
+শেখ হাসিনার পতনের,https://bangla.bdnews24.com/,LABEL_0,0.9159114956855774,True
+সাহসী দিদারুলকে অশ্রুজলে বিদায়,https://bangla.bdnews24.com/,LABEL_1,0.667474091053009,True
+প্যারিস এয়ার শো,https://bangla.bdnews24.com/,LABEL_1,0.9933652281761168,True
+দেশে দেশে ঈদুল ফিতর উদযাপন,https://bangla.bdnews24.com/,LABEL_1,0.9796372056007384,True
+গাজায় ইসরায়েলি নৃশংসতার এক ভোর,https://bangla.bdnews24.com/,LABEL_0,0.9959083795547484,True
+লালসালু তৈরির ধুম,https://bangla.bdnews24.com/,LABEL_1,0.9896634221076964,True
+কাদের সিদ্দিকীকে আদালতে হাজিরা লতিফ সিদ্দিকী,https://bangla.bdnews24.com/,LABEL_0,0.9268595576286316,True
+বছর তারেকের শাহাদাতের,https://bangla.bdnews24.com/,LABEL_0,0.9463962316513062,True
+মাসুদ আহমেদের বহিষ্কারের আদেশ নিল বিএনপি,https://bangla.bdnews24.com/,LABEL_0,0.6805742383003235,True
+সরকার হাত-পা বেঁধে জাপাকে সাঁতারে নামাতে চায়: জিএম কাদের,https://bangla.bdnews24.com/,LABEL_0,0.9750561714172364,True
+আসনে প্রার্থী ঘোষণা গণফোরামের,https://bangla.bdnews24.com/,LABEL_1,0.9813280701637268,True
+টাওয়ার হ্যামলেটসের মেয়রপ্রার্থী সিরাজের সাংবাদিকদের সভা,https://bangla.bdnews24.com/,LABEL_0,0.6402579545974731,True
+বাহরাইনে প্রবাসীদের সচেতনতামূলক মোবাইল কনস্যুলার ক্যাম্প,https://bangla.bdnews24.com/,LABEL_1,0.9101758003234864,True
+কুয়েতে দশকে পাঁচ বাংলাদেশি প্রবাসীর মৃত্যু,https://bangla.bdnews24.com/,LABEL_0,0.9203696846961976,True
+কাউন্সিলরের ভোটের প্রচার: টাওয়ার হ্যামলেটসের প্রতিনিধিদের ডেকেছেন মন্ত্রী,https://bangla.bdnews24.com/,LABEL_0,0.9095433354377748,True
+প্রবাসীদের ডাকযোগে ভোটে নিবন্ধনের আহ্বান যুক্তরাজ্য বিএনপির,https://bangla.bdnews24.com/,LABEL_1,0.9123005270957948,True
+সুপারনোভার ‘জন্মমুহূর্ত’ দেখলেন বিজ্ঞানীরা,https://bangla.bdnews24.com/,LABEL_1,0.8146246075630188,True
+মানুষের শ্বাস-প্রশ্বাসযোগ্য বাতাসে দূষণ ঘটায় তেলাপোকা: গবেষণা,https://bangla.bdnews24.com/,LABEL_0,0.6213633418083191,True
+বিশ্বের অর্ধেক মানুষ পাকস্থলী ক্যান্সারের ব্যাকটেরিয়া বহন করছে: গবেষণা,https://bangla.bdnews24.com/,LABEL_0,0.9222090244293212,True
+শনির চাঁদে থাকতে ‘এলিয়েনের আবাস’,https://bangla.bdnews24.com/,LABEL_0,0.9597392082214355,True
+পৃথিবীর আশপাশে ঘুরে বেড়াচ্ছে দীর্ঘস্থায়ী ‘অতিথি’,https://bangla.bdnews24.com/,LABEL_1,0.6862763166427612,True
+"জাবিতে রাত টার অনুষ্ঠান নয়, শব্দের মাত্রা ‘সহনীয়’",https://bangla.bdnews24.com/,LABEL_0,0.9280917048454284,True
+‘যৌন নিপীড়নের’ অভিযোগ: ঢাবি শিক্ষকের বিরুদ্ধে মানববন্ধন,https://bangla.bdnews24.com/,LABEL_0,0.9870303273200988,True
+অগ্রহায়ণের শুরুতে ডাকসুর ‘আদি নববর্ষ’ উৎসব,https://bangla.bdnews24.com/,LABEL_1,0.7348068952560425,True
+ছাত্রের ‘যৌন নিপীড়নের’ মামলায় ঢাবি শিক্ষক কারাগারে,https://bangla.bdnews24.com/,LABEL_0,0.9872274398803712,True
+শাবিতে শিক্ষক নিয়োগে ‘রাজনীতির’ অভিযোগ,https://bangla.bdnews24.com/,LABEL_0,0.9592946767807008,True
+ভোটের হাওয়ায় জুলাই সনদ টিকবে? সন্দিহান শাহদীন মালিক,https://bangla.bdnews24.com/,LABEL_0,0.873024582862854,True
+বাজেটেও স্বাস্থ্যের উন্নতি সম্ভব: ডা. আজাদ খান,https://bangla.bdnews24.com/,LABEL_1,0.9666377305984496,True
+শ্রমিকদের ন্যূনতম সুরক্ষা নিশ্চিত ছাড়া বৈষম্যহীন জাতি গঠন সম্ভব নয়: সুলতান উদ্দিন আহমেদ,https://bangla.bdnews24.com/,LABEL_1,0.922273814678192,True
+"মেডিকেলে শেখায় রোগের চিকিৎসা, মানুষের চিকিৎসা নয়: ডা. আজাদ খান",https://bangla.bdnews24.com/,LABEL_1,0.931220531463623,True
+নির্বাচনের সক্রিয় ‘আন্ডারওয়ার্ল্ড’,https://bangla.thedailystar.net/,LABEL_0,0.9484771490097046,True
+"জলবায়ু অর্থায়ন দরকষাকষির বিষয় নয়, টিকে থাকার প্রশ্ন: ফরিদা আখতার",https://bangla.thedailystar.net/,LABEL_1,0.9627301692962646,True
+"পাবনায় শিশুর মরদেহ উদ্ধার, পুলিশের ধারণা কানের দুল ছিনিয়ে হত্যা",https://bangla.thedailystar.net/,LABEL_0,0.9753467440605164,True
+‘সুন্দরবন রক্ষায় এখনই জলবায়ু অর্থায়ন প্রয়োজন’,https://bangla.thedailystar.net/,LABEL_1,0.8479809761047363,True
+বিতর্কিত পুলিশ কর্মকর্তাকে নির্বাচনের দায়িত্ব না: আইজিপি,https://bangla.thedailystar.net/,LABEL_0,0.7869071960449219,True
+বান্দরবানে রোহিঙ্গা নাগরিক আটক,https://bangla.thedailystar.net/,LABEL_0,0.9830170273780824,True
+"বরিশালে শ্রমিক-শিক্ষার্থী সংঘর্ষে বাস ভাঙচুর, ঘণ্টা চলাচল বন্ধ",https://bangla.thedailystar.net/,LABEL_0,0.9552623629570008,True
+ঢাকা-ময়মনসিংহ মহাসড়কে যাত্রীবাহী বাসে আগুন,https://bangla.thedailystar.net/,LABEL_0,0.838624894618988,True
+বছরের পুরোনো মাছের জীবাশ্ম চবির জাদুঘরে,https://bangla.thedailystar.net/,LABEL_1,0.9225627183914183,True
+মাঠ হাসপাতালে গিলের খেলা শঙ্কা,https://bangla.thedailystar.net/,LABEL_0,0.9560169577598572,True
+আইপিএল নিলাম: দল টাকা খরচ পারবে,https://bangla.thedailystar.net/,LABEL_1,0.9686344861984252,True
+অস্ট্রেলিয়ান বংশোদ্ভূত তারকাকে বাংলাদেশে আসছে ভারত,https://bangla.thedailystar.net/,LABEL_0,0.9736288785934448,True
+ঢাকাই সিনেমার সোনালি যুগের কিংবদন্তি পরিচালক,https://bangla.thedailystar.net/,LABEL_1,0.994565725326538,True
+ওটিটিতে জয়া শুভর সিনেমা,https://bangla.thedailystar.net/,LABEL_1,0.9959742426872252,True
+ধর্মেন্দ্রর মিথ্যা মৃত্যুর খবরে ক্ষোভ জানালেন স্ত্রী হেমা মেয়ে এশা,https://bangla.thedailystar.net/,LABEL_0,0.952286422252655,True
+আগুনের রাজনীতিতে হারে কেবল মানুষ,https://bangla.thedailystar.net/,LABEL_0,0.7486653923988342,True
+নদী পরিবেশ রক্ষায় রাজনৈতিক অঙ্গিকার জরুরি,https://bangla.thedailystar.net/,LABEL_1,0.9731350541114808,True
+"স্থানীয় নেতৃত্ব, বৈশ্বিক চ্যালেঞ্জ: জলবায়ু সহনশীলতার অগ্রযাত্রায় ইউনিয়ন পরিষদ",https://bangla.thedailystar.net/,LABEL_1,0.9836879968643188,True
+আইফোনে স্যাটেলাইট ফিচার আনার পরিকল্পনা অ্যাপলের,https://bangla.thedailystar.net/,LABEL_1,0.9615600109100342,True
+আবারও পেছাল বহুল প্রতীক্ষিত গেম ‘জিটিএ সিক্স’,https://bangla.thedailystar.net/,LABEL_0,0.8239645957946777,True
+পাঁচটি সেটিংস বদলালেই ফোন স্মার্ট,https://bangla.thedailystar.net/,LABEL_1,0.9754716157913208,True
+ভারতে আসছে ইলন মাস্কের স্টারলিংক,https://bangla.thedailystar.net/,LABEL_0,0.8945293426513672,True
+"কৃষি বিশ্ববিদ্যালয়গুলোতে গুচ্ছ ভর্তি পরীক্ষা জানুয়ারি, আবেদনের তারিখ ঘোষণা",https://bangla.thedailystar.net/,LABEL_1,0.8197240233421326,True
+ফরেনসিক সায়েন্স সাইবার সিকিউরিটি পোর্টসমাউথ বিশ্ববিদ্যালয়ের জাতীয় বিশ্ববিদ্যালয়,https://bangla.thedailystar.net/,LABEL_1,0.97749662399292,True
+জবি ছাত্র সংসদ নির্বাচন ডিসেম্বর,https://bangla.thedailystar.net/,LABEL_1,0.9735735654830932,True
+"সরকারের ঋণ ,,,, টাকা ছাড়াল",https://bangla.thedailystar.net/,LABEL_0,0.8570113778114319,True
+সাবেক এমপিদের বিলাসবহুল গাড়ি পরিবহন পুলে হস্তান্তর,https://bangla.thedailystar.net/,LABEL_0,0.8053855299949646,True
+জুলাই গণঅভ্যুত্থানের বন্ধ কারখানাগুলো এখনো খোলেনি,https://bangla.thedailystar.net/,LABEL_0,0.9376185536384584,True
+রমজানের প্রয়োজনীয় পণ্য আমদানিতে এলসি মার্জিন শিথিল,https://bangla.thedailystar.net/,LABEL_1,0.9563116431236268,True
+থাকছে মেয়াদি মিউচুয়াল ফান্ড,https://bangla.thedailystar.net/,LABEL_1,0.995577335357666,True
+বাংলাদেশ ব্র্যান্ড ফোরামের তম কমিউনিকেশন সামিট অনুষ্ঠিত,https://bangla.thedailystar.net/,LABEL_1,0.9821611642837524,True
+শ্রম আইন সংশোধনকে কেন্দ্র বির্তক,https://bangla.thedailystar.net/,LABEL_0,0.774887204170227,True
+"আমদানি বিল পরিশোধ, রিজার্ভ কমে . বিলিয়ন ডলার",https://bangla.thedailystar.net/,LABEL_1,0.7031770944595337,True
+"লাইসেন্স পেল ‘সম্মিলিত ইসলামী ব্যাংক’, বরাদ্দ টাকা",https://bangla.thedailystar.net/,LABEL_1,0.92442524433136,True
+"পুড়ে করবেন,",https://bangla.thedailystar.net/,LABEL_1,0.7953129410743713,True
+সহকর্মীর প্রেমে জড়ানো,https://bangla.thedailystar.net/,LABEL_1,0.9884689450263976,True
+টাক মাথায় খুশকি হয়?,https://bangla.thedailystar.net/,LABEL_0,0.730582058429718,True
+হারিয়ে শীতের পিঠাপুলির দিনগুলো,https://bangla.thedailystar.net/,LABEL_1,0.7304491400718689,True
+বাংলাদেশে নারী ক্রীড়াবিদরা নিরাপদ পরিবেশ পাবেন?,https://bangla.thedailystar.net/,LABEL_0,0.8565812110900879,True
+এলো নাক গলানোর পুরনো সংস্কৃতি?,https://bangla.thedailystar.net/,LABEL_0,0.9102312326431274,True
+চ্যাম্পিয়ন্স লিগে জায়ান্টদের লড়াই,https://bangla.thedailystar.net/,LABEL_1,0.9861933588981628,True
+তাবিথ আউয়ালের এক বছর: পথের দিশা পেল ফুটবল?,https://bangla.thedailystar.net/,LABEL_1,0.7193090319633484,True
+কাবরেরা বাংলাদেশের আদর্শ কোচ?,https://bangla.thedailystar.net/,LABEL_1,0.976411521434784,True
+ঢাকার খাস পুকুর-জলাশয় সংস্কার,https://bangla.thedailystar.net/,LABEL_1,0.8434154987335205,True
+"জুড়ি নদীতে ফেলা বর্জ্য, হুমকিতে জীববৈচিত্র্য",https://bangla.thedailystar.net/,LABEL_0,0.9387364387512208,True
+"কর্ণফুলী নদীতে সংযুক্ত খাল দূষণ, পোশাক কারখানাকে জরিমানা",https://bangla.thedailystar.net/,LABEL_0,0.9490793943405152,True
+অস্ট্রেলিয়ায় শনাক্ত শিংযুক্ত প্রজাতির মৌমাছির নাম ‘লুসিফার’?,https://bangla.thedailystar.net/,LABEL_1,0.9381133913993835,True
+"জলবায়ু অর্থায়নেই ঋণফাঁদ, ‘উচ্চ ঝুঁকির’ তালিকায় বাংলাদেশ",https://bangla.thedailystar.net/,LABEL_0,0.9193300604820251,True
+শুকিয়ে বরেন্দ্র অঞ্চলের ধানখেত,https://bangla.thedailystar.net/,LABEL_1,0.5161370635032654,True
+‘পাহাড় কেটে ভবন হবে’,https://bangla.thedailystar.net/,LABEL_0,0.958544909954071,True
+টানা ঘণ্টা গ্যাস গাজীপুরের যেসব এলাকায়,https://bangla.thedailystar.net/,LABEL_1,0.8988685607910156,True
+‘আবার এসো দখিন হাওয়ায়’,https://bangla.thedailystar.net/,LABEL_1,0.9952127933502196,True
+প্রাণবন্ত লেখার জাদুকর হুমায়ূন আহমেদ,https://bangla.thedailystar.net/,LABEL_1,0.9983128309249878,True
+"‘হুমায়ুন ভাই বলতেন, সাবধানে চালাও, বাংলা সাহিত্যের বড় ক্ষতি হয়ে যাবে’",https://bangla.thedailystar.net/,LABEL_0,0.922734797000885,True
+‘ফ্লেশ’ উপন্যাসের বুকার পুরস্কার জিতলেন ডেভিড সোলোয়,https://bangla.thedailystar.net/,LABEL_1,0.9810042977333068,True
+হতাশায় আলোর কবি ফররুখ আহমদ,https://bangla.thedailystar.net/,LABEL_1,0.8046045303344727,True
+অধিকার প্রশ্নে সোচ্চার ইলা মিত্র,https://bangla.thedailystar.net/,LABEL_1,0.9949187636375428,True
+উপমহাদেশের রাজনীতিতে ট্র্যাজিক নায়ক সোহরাওয়ার্দী,https://bangla.thedailystar.net/,LABEL_0,0.9037091732025146,True
+‘যেকোনো শিল্পের স্রষ্টা সমস্যার মুখোমুখি হন’,https://bangla.thedailystar.net/,LABEL_0,0.8742089867591858,True
+প্রাণ ফিরছে সাদাপাথরে,https://bangla.thedailystar.net/,LABEL_1,0.9818578958511353,True
+লাল শাপলার সাতলা গ্রাম,https://bangla.thedailystar.net/,LABEL_1,0.975736439228058,True
+করাতকলে জীবিকা,https://bangla.thedailystar.net/,LABEL_1,0.9801545739173888,True
+রাজশাহীতে অচল সিসিটিভি ক্যামেরা বাড়াচ্ছে নিরাপত্তা শঙ্কা,https://bangla.thedailystar.net/,LABEL_0,0.8443214297294617,True
+কারফিউ শিথিলের সময় ঢাকা,https://bangla.thedailystar.net/,LABEL_1,0.9111828207969666,True
+হাসনাতকে উপহার পাঠালের রুমিন ফারহানা,https://bangla.dhakatribune.com/,LABEL_1,0.9578285813331604,True
+যমুনায় তিন দলের প্রধান উপদেষ্টার জরুরি বৈঠক,https://bangla.dhakatribune.com/,LABEL_0,0.9173242449760436,True
+"চবিতে স্থানীয়দের শিক্ষার্থীদের সংঘর্ষ-ইটপাটকেল নিক্ষেপ, সহ-উপাচার্যসহ আহত",https://bangla.dhakatribune.com/,LABEL_0,0.9648125171661376,True
+"স্বরাষ্ট্র উপদেষ্টা: অন্তর্বর্তী সরকারের আমলে , সড়ক অবরোধ হয়েছে",https://bangla.dhakatribune.com/,LABEL_0,0.8916798233985901,True
+রাকসু কার্যালয়ে ছাত্রদলের নেতা-কর্মীদের তালা-ভাঙচুর,https://bangla.dhakatribune.com/,LABEL_0,0.9139397740364076,True
+ফোরজির সর্বনিম্ন গতি এমবিপিএস কার্যকর সেপ্টেম্বর,https://bangla.dhakatribune.com/,LABEL_0,0.8843054175376892,True
+গাজীপুরে পোশাক শ্রমিকসহ নারীর ঝুলন্ত মরদেহ উদ্ধার,https://bangla.dhakatribune.com/,LABEL_0,0.9767980575561525,True
+ভয়েস অব আমেরিকার সাংবাদিককে ছাঁটাই ট্রাম্প প্রশাসন,https://bangla.dhakatribune.com/,LABEL_0,0.975538432598114,True
+ডাকসু নির্বাচনে জিএস প্রার্থী ফরহাদের প্রার্থিতা চ্যালেঞ্জ রিট,https://bangla.dhakatribune.com/,LABEL_0,0.9101200103759766,True
+নুরুল হকের স্বাস্থ্যের খোঁজ নিলেন খালেদা জিয়া,https://bangla.dhakatribune.com/,LABEL_0,0.9250447154045104,True
+"চবি এলাকায় শিক্ষার্থী স্থানীয়দের সংঘর্ষে আহত , সেনা মোতা‌য়েন",https://bangla.dhakatribune.com/,LABEL_0,0.9351625442504884,True
+ধানমন্ডিতে ফ্যানের ঝুলছিল শিশু গৃহকর্মীর লাশ,https://bangla.dhakatribune.com/,LABEL_0,0.9834008812904358,True
+ঢাবিতে ‘সভ্যতা গঠনে ইসলামের ভূমিকা’ শীর্ষক আন্তর্জাতিক সেমিনার অনুষ্ঠিত,https://bangla.dhakatribune.com/,LABEL_1,0.976473331451416,True
+ঢাকাস্থ ইরান সাংস্কৃতিক কেন্দ্রে বইয়ের মোড়ক উন্মোচন,https://bangla.dhakatribune.com/,LABEL_1,0.9883574843406676,True
+ডিএমটিসিএল কর্মচারীদের স্বচ্ছ সার্ভিস রুল প্রণয়নের দাবি,https://bangla.dhakatribune.com/,LABEL_1,0.9363332986831664,True
+স্ত্রী হত্যা মামলায় স্বামী গ্রেপ্তার,https://bangla.dhakatribune.com/,LABEL_0,0.9734232425689696,True
+এআই চ্যাটবটকে যেসব তথ্য দিলে বিপদে পড়তে,https://bangla.dhakatribune.com/,LABEL_0,0.7015427947044373,True
+কৃষি বিশ্ববিদ্যালয়ের শিক্ষার্থীদের রেলপথ অবরোধ,https://bangla.dhakatribune.com/,LABEL_0,0.8420896530151367,True
+হাসনাতকে উপহার পাঠালের রুমিন ফারহানা,https://bangla.dhakatribune.com/,LABEL_1,0.9578285813331604,True
+"স্বরাষ্ট্র উপদেষ্টা: অন্তর্বর্তী সরকারের আমলে , সড়ক অবরোধ হয়েছে",https://bangla.dhakatribune.com/,LABEL_0,0.8916798233985901,True
+রাকসু কার্যালয়ে ছাত্রদলের নেতা-কর্মীদের তালা-ভাঙচুর,https://bangla.dhakatribune.com/,LABEL_0,0.9139397740364076,True
+"চবিতে স্থানীয়দের শিক্ষার্থীদের সংঘর্ষ-ইটপাটকেল নিক্ষেপ, সহ-উপাচার্যসহ আহত",https://bangla.dhakatribune.com/,LABEL_0,0.9648125171661376,True
+স্ত্রী হত্যা মামলায় স্বামী গ্রেপ্তার,https://bangla.dhakatribune.com/,LABEL_0,0.9734232425689696,True
+কৃষি বিশ্ববিদ্যালয়ের শিক্ষার্থীদের রেলপথ অবরোধ,https://bangla.dhakatribune.com/,LABEL_0,0.8420896530151367,True
+"স্বরাষ্ট্র উপদেষ্টা: অন্তর্বর্তী সরকারের আমলে , সড়ক অবরোধ হয়েছে",https://bangla.dhakatribune.com/,LABEL_0,0.8916798233985901,True
+রাকসু কার্যালয়ে ছাত্রদলের নেতা-কর্মীদের তালা-ভাঙচুর,https://bangla.dhakatribune.com/,LABEL_0,0.9139397740364076,True
+"চবিতে স্থানীয়দের শিক্ষার্থীদের সংঘর্ষ-ইটপাটকেল নিক্ষেপ, সহ-উপাচার্যসহ আহত",https://bangla.dhakatribune.com/,LABEL_0,0.9648125171661376,True
+থাই প্রধানমন্ত্রীর পদ পেতংতার্ন স্থায়ীভাবে বরখাস্ত,https://bangla.dhakatribune.com/,LABEL_0,0.9168978929519652,True
+"সিগারেটের আগুন দাবানল, সাইপ্রাসের বর্গকিলোমিটার বনাঞ্চল পুড়ে ছাই",https://bangla.dhakatribune.com/,LABEL_0,0.9488656520843506,True
+যুক্তরাষ্ট্রে কমছে বিদেশি শিক্ষার্থী সংবাদকর্মীদের ভিসার মেয়াদ,https://bangla.dhakatribune.com/,LABEL_1,0.6371890902519226,True
+গাজায় অনাহারে শিশুসহ মৃত্যু,https://bangla.dhakatribune.com/,LABEL_0,0.9895882606506348,True
+"যুক্তরাষ্ট্রে স্কুলে বন্দুক হামলায় শিশু নিহত, আহত",https://bangla.dhakatribune.com/,LABEL_0,0.9728164672851562,True
+হাসনাতকে উপহার পাঠালের রুমিন ফারহানা,https://bangla.dhakatribune.com/,LABEL_1,0.9578285813331604,True
+নুরুল হকের স্বাস্থ্যের খোঁজ নিলেন খালেদা জিয়া,https://bangla.dhakatribune.com/,LABEL_0,0.9250447154045104,True
+ঘণ্টার জাতীয় পার্টিকে নিষিদ্ধের দাবি গণ অধিকার পরিষদের,https://bangla.dhakatribune.com/,LABEL_0,0.8801918029785156,True
+জাতীয় পার্টির কেন্দ্রীয় কার্যালয়ে হামলা-ভাঙচুর,https://bangla.dhakatribune.com/,LABEL_0,0.9045255780220032,True
+"নুরুল হকের ওপর হামলার ঘটনায় তারেক রহমানের নিন্দা, তদন্তের আহ্বান",https://bangla.dhakatribune.com/,LABEL_0,0.9388065934181212,True
+থালাপতি বিজয়ের বিরুদ্ধে মামলা,https://bangla.dhakatribune.com/,LABEL_0,0.8509159088134766,True
+শাহরুখ-দীপিকার বিরুদ্ধে থানায় এজাহার,https://bangla.dhakatribune.com/,LABEL_0,0.8984244465827942,True
+‘ইত্যাদি’ ভোলার চরফ্যাশনে,https://bangla.dhakatribune.com/,LABEL_1,0.8290053606033325,True
+‘বিগ বস’-এর সবচেয়ে কম বয়সী তারকা অ্যাশনূর সম্পর্কে কতটা জানেন,https://bangla.dhakatribune.com/,LABEL_1,0.7907688617706299,True
+ভারতকে নিষেধাজ্ঞার কড়া হুঁশিয়ারি ফিফার,https://bangla.dhakatribune.com/,LABEL_0,0.9121655225753784,True
+"নেইমারকে ছাড়াই ব্রাজিলের দল ঘোষণা, বাদ পড়লেন ভিনিও",https://bangla.dhakatribune.com/,LABEL_0,0.5565773844718933,True
+টি-টোয়েন্টিতে নিজেকে উচ্চতায় গেলেন সাকিব,https://bangla.dhakatribune.com/,LABEL_1,0.9395728707313538,True
+নারী বিশ্বকাপের দল ঘোষণা বাংলাদেশের,https://bangla.dhakatribune.com/,LABEL_1,0.9764993786811828,True
+নাগালের বাইরে সবজির দাম,https://bangla.dhakatribune.com/,LABEL_0,0.8319171071052551,True
+আলুর সর্বনিম্ন দাম বেঁধে দিলো সরকার,https://bangla.dhakatribune.com/,LABEL_1,0.778774619102478,True
+গভর্নর: ‘নগদ’কে বেসরকারি খাতে ছেড়ে,https://bangla.dhakatribune.com/,LABEL_1,0.9305548071861268,True
+স্বর্ণের দামে আবারও পরিবর্তন,https://bangla.dhakatribune.com/,LABEL_1,0.93656724691391,True
+"সানস্ক্রিনে আগ্রহ, পিছু টানছে দাম",https://bangla.dhakatribune.com/,LABEL_0,0.8164595365524292,True
+গ্রামীণ উৎসবের সোনালি হারিয়েই গেল?,https://bangla.dhakatribune.com/,LABEL_0,0.9136334657669068,True
+জেন জি বনাম মিলেনিয়াল লড়াইয়ে কারা এগিয়ে?,https://bangla.dhakatribune.com/,LABEL_1,0.9439339637756348,True
+"প্রাইজবন্ড যেখান কিনবেন-ভাঙাবেন, জেনে নিন প্রাইজবন্ডের সুবিধা-অসুবিধা",https://bangla.dhakatribune.com/,LABEL_1,0.9381669759750366,True
+এআই চ্যাটবটকে যেসব তথ্য দিলে বিপদে পড়তে,https://bangla.dhakatribune.com/,LABEL_0,0.7015427947044373,True
+চার্জে চলবে রিয়েলমির স্মার্টফোন,https://bangla.dhakatribune.com/,LABEL_1,0.5946149826049805,True
+ছেলেকে ‘আত্মহত্যায়’ সহায়তার অভিযোগে চ্যাটজিপির বিরুদ্ধে মামলা মা-বাবা,https://bangla.dhakatribune.com/,LABEL_0,0.9857287406921388,True
+হোয়াটসঅ্যাপে যুক্ত কল শিডিউল সেবা,https://bangla.dhakatribune.com/,LABEL_1,0.9359673261642456,True
+রাজনীতি দুর্নীতি: প্রবাসী সংগঠনগুলো হারাচ্ছে মূল লক্ষ্য?,https://bangla.dhakatribune.com/,LABEL_0,0.8983070850372314,True
+বাংলাদেশের সাংস্কৃতিক ফ্যাসিবাদ বিদায় নিয়েছে?,https://bangla.dhakatribune.com/,LABEL_0,0.979692816734314,False
+শুনে মুসলমান-হিন্দু পিছেতে হটায়…,https://bangla.dhakatribune.com/,LABEL_0,0.9967082738876344,True
+সংস্কৃতিবান সমাজ জুলাইয়ের সংকল্প,https://bangla.dhakatribune.com/,LABEL_1,0.9964802861213684,True
+ঈদে মিলাদুন্নবীর ছুটির তারিখ পরিবর্তন,https://bangla.dhakatribune.com/,LABEL_1,0.927603542804718,True
+ঈদে মিলাদুন্নবি সেপ্টেম্বর,https://bangla.dhakatribune.com/,LABEL_1,0.9822876453399658,True
+অনিদ্রার সমস্যা মুক্তি পেতে নারীরা,https://bangla.dhakatribune.com/,LABEL_0,0.6017550230026245,True
+কিডনি ভালো রাখতে সহায়ক যেসব পানীয়,https://bangla.dhakatribune.com/,LABEL_1,0.9942787885665894,True
+"এইচএসসিতে খাতা চ্যালেঞ্জে জিপিএ- পেলেন জন, ফেল পাস",https://www.banglanews24.com/,LABEL_0,0.7902883887290955,True
+"স্বৈরাচারী নই, মারধরের অভিযোগ পুরোপুরি মিথ্যা: জ্যোতি",https://www.banglanews24.com/,LABEL_1,0.8972909450531006,True
+বরিশালের নথুল্লাবাদ টার্মিনাল রুটে বাস চলাচল বন্ধ,https://www.banglanews24.com/,LABEL_1,0.7073958516120911,True
+"একশ মিটারের টাকার সেতু, আসছে টিও",https://www.banglanews24.com/,LABEL_1,0.9519363641738892,True
+"বাংলাদেশি লিবিয়া উপকূলে নৌকাডুবি, চারজনের মৃত্যু",https://www.banglanews24.com/,LABEL_0,0.9869174957275392,True
+ফেনীতে জুলাই শহীদ স্মৃতিস্তম্ভে আগুন দিল মাস্ক পরা দুর্বৃত্তরা,https://www.banglanews24.com/,LABEL_0,0.9831708073616028,True
+সিলেটে অ্যাম্বুলেন্স বাসে আগুন দিল দুর্বৃত্তরা,https://www.banglanews24.com/,LABEL_0,0.9503864645957948,True
+"কবে, ফরম্যাটে ফিরবে তত্ত্বাবধায়ক সরকার",https://www.banglanews24.com/,LABEL_1,0.5493192672729492,True
+"অ্যাপে সংগঠিত দুর্বৃত্তরা, থানায় নিরাপত্তা জোরদার",https://www.banglanews24.com/,LABEL_0,0.7884100675582886,True
+শেখ হাসিনার রায় ঘিরে মাঠে নামার চেষ্টায় কার্যক্রম নিষিদ্ধ আ.লীগ,https://www.banglanews24.com/,LABEL_0,0.9755963683128356,True
+প্রয়োজনের তুলনায় অপ্রতুল ক্যানসার চিকিৎসা,https://www.banglanews24.com/,LABEL_0,0.8593555092811584,True
+ভোটে ব্যাঘাত ঘটানোর শক্তি আ. লীগের,https://www.banglanews24.com/,LABEL_0,0.9497283101081848,True
+নির্বাচনেই দেশের ভবিষ্যৎ নির্ধারণ,https://www.banglanews24.com/,LABEL_1,0.9934282898902892,True
+টাকার বিনিময়ে বদলি লক্ষ্য দুর্নীতি,https://www.banglanews24.com/,LABEL_0,0.976394772529602,True
+মামুন হত্যাকাণ্ডের স্ত্রীর মামলা,https://www.banglanews24.com/,LABEL_0,0.9515371918678284,True
+সাভারে শ্রমিক পরিবহনকারী মিনিবাসে আগুন,https://www.banglanews24.com/,LABEL_0,0.8678644895553589,True
+"চট্টগ্রামে অবৈধ সিগারেটের বাণিজ্য: বছরে , টাকার রাজস্ব ক্ষতি",https://www.tbsnews.net/bangla/,LABEL_0,0.9416395425796508,True
+যুক্তরাজ্যে স্থায়ীভাবে বসবাসের অনুমতির পেতে শরণার্থীদের বছর অপেক্ষা,https://www.tbsnews.net/bangla/,LABEL_0,0.8891504406929016,True
+বিবিসির বিরুদ্ধে মামলার হুমকি বিশ্বের সবচেয়ে প্রভাবশালী ব্যক্তির; এরপর কী?,https://www.tbsnews.net/bangla/,LABEL_0,0.914942979812622,True
+সিলেটে গভীর রাতে দাঁড়িয়ে অ্যাম্বুলেন্স বাসে আগুন,https://www.tbsnews.net/bangla/,LABEL_0,0.9406460523605348,True
+"'ভেনেজুয়েলা মোটামুটি সিদ্ধান্ত ফেলেছি, এখনই বলব না': ট্রাম্প",https://www.tbsnews.net/bangla/,LABEL_0,0.8439851999282837,True
+তাইওয়ান ইস্যুকে কেন্দ্র নাগরিকদের জাপানে ভ্রমণ আহ্বান চীনের,https://www.tbsnews.net/bangla/,LABEL_1,0.5918560028076172,True
+"মেক্সিকোয় মেয়রকে জনসমক্ষে হত্যা; জেন-জি’র সহিংসতাবিরোধী বিক্ষোভে আহত শতাধিক, গ্রেপ্তার",https://www.tbsnews.net/bangla/,LABEL_0,0.9811127185821532,True
+রাজধানীর ইস্কাটনে ককটেল বিস্ফোরণে আহত,https://www.tbsnews.net/bangla/,LABEL_0,0.9362856149673462,True
+"মাদারীপুরে গাছ ফেলে ঢাকা-বরিশাল মহাসড়ক অবরোধ আ. লীগের নেতা-কর্মীদের, ঘণ্টা চলাচল বন্ধ",https://www.tbsnews.net/bangla/,LABEL_0,0.9679169654846193,True
+দাবি পূরণের আশ্বাসে বিচারকদের কলম বিরতি কর্মসূচি প্রত্যাহার,https://www.tbsnews.net/bangla/,LABEL_1,0.7072146534919739,True
+সাভারে গভীর রাতে ঢাকা-আরিচা মহাসড়কের পাশে দাঁড়িয়ে বাসে আগুন,https://www.tbsnews.net/bangla/,LABEL_0,0.9307693243026732,True
+এনবিআরের আন্দোলনে বরখাস্তদের বিষয়ে ইতিবাচক সমাধানের চিন্তা: অর্থ উপদেষ্টা,https://www.tbsnews.net/bangla/,LABEL_1,0.8299663662910461,True
+"‘তুমি গেছ, আছ’ নিয়ান্ডারথালদের শেষ দিন...",https://www.tbsnews.net/bangla/,LABEL_1,0.8059744834899902,True
+"বাঘ নয়, তারে এতো ভয়!",https://www.tbsnews.net/bangla/,LABEL_0,0.5921788215637207,True
+পেপারব্যাক বিপ্লব প্রচ্ছদশিল্পে কাজী আনোয়ার হোসেন: রঙে আঁকা এক যুগ,https://www.tbsnews.net/bangla/,LABEL_1,0.9933443069458008,True
+প্রচ্ছদ: হু ইউ,https://www.tbsnews.net/bangla/,LABEL_1,0.997969686985016,True
+ইসি বের দেওয়ার জানাল ইসলামি ঐক্যজোট,https://www.tbsnews.net/bangla/,LABEL_0,0.925565540790558,True
+পবিত্র ঈদুল ফিতরের সম্ভাব্য তারিখ জানাল আরব আমিরাত,https://www.tbsnews.net/bangla/,LABEL_1,0.9597663879394532,True
+ঢাকার সুবিধাবঞ্চিত শিশুদের ব্যতিক্রমী স্কুল,https://www.tbsnews.net/bangla/,LABEL_1,0.9699670672416688,True
+ভালো হয়ে যাও: রাজনৈতিক বচন অন্যন্য,https://www.tbsnews.net/bangla/,LABEL_1,0.9721053242683412,True
+"টাকার প্রভিশন ঘাটতি পূরণে ইসলামী ব্যাংকের লাগবে বছর, বলছেন বিশেষজ্ঞরা",https://www.tbsnews.net/bangla/,LABEL_1,0.5958829522132874,True
+ব্যাংক মার্জার: গ্রাহকরা পুরনো চেকে লেনদেন বর্তমান শাখা টাকা তুলতে পারবেন?,https://www.tbsnews.net/bangla/,LABEL_1,0.8479160070419312,True
+যুক্তরাজ্যে স্থায়ীভাবে বসবাসের অনুমতির পেতে শরণার্থীদের বছর অপেক্ষা,https://www.tbsnews.net/bangla/,LABEL_0,0.8891504406929016,True
+বিবিসির বিরুদ্ধে মামলার হুমকি বিশ্বের সবচেয়ে প্রভাবশালী ব্যক্তির; এরপর কী?,https://www.tbsnews.net/bangla/,LABEL_0,0.914942979812622,True
+ওয়েস্ট ইন্ডিজের হোয়াইটওয়াশ বাংলাদেশ,https://www.tbsnews.net/bangla/,LABEL_0,0.7776864171028137,True
+ড্যানি রেঞ্চ: ‘দ্য কালেক্টিভ’ বেরিয়ে যেভাবে হয়ে উঠলেন অনলাইন দাবার জনপ্রিয়তার অন্যতম পথিকৃৎ,https://www.tbsnews.net/bangla/,LABEL_1,0.9836044907569884,True
+‘ফ্লেশ’ উপন্যাসের বুকার জিতলেন ডেভিড সলয়,https://www.tbsnews.net/bangla/,LABEL_1,0.983616828918457,True
+‘রূপবান’: দেশি চলচ্চিত্রের সুপারহিট; দেড় লাখের ছবির আয় লাখ!,https://www.tbsnews.net/bangla/,LABEL_1,0.9417369961738586,True
+সুষ্ঠু নির্বাচনের দলের সহযোগিতা চাইলেন সিইসি,https://www.risingbd.com/,LABEL_1,0.932351291179657,True
+যুক্তরাজ্যের অভিবাসন নীতি: স্থায়ী নাগরিকত্বে বছর অপেক্ষা,https://www.risingbd.com/,LABEL_0,0.6403314471244812,True
+ঢাকা-বরিশাল মহাসড়কে গাছ ফেলে অবরোধ,https://www.risingbd.com/,LABEL_0,0.8991122841835022,True
+"মেক্সিকোতে জেন-জি বিক্ষোভকারীদের পুলিশের সংঘর্ষ, আহত",https://www.risingbd.com/,LABEL_0,0.9616774916648864,True
+সিলেটে মধ্যরাতে অ্যাম্বুলেন্স বাসে আগুন,https://www.risingbd.com/,LABEL_0,0.9154359102249146,True
+সাতকানিয়ায় রেললাইনে গাছের ডাল ফেলে নাশকতার,https://www.risingbd.com/,LABEL_0,0.9830947518348694,False
+লিবিয়ায় নৌকাডুবি: বাংলাদেশির মৃত্যু,https://www.risingbd.com/,LABEL_0,0.9812197089195251,False
+গোবিপ্রবির রবি সোমবারের পরীক্ষা স্থগিত,https://www.risingbd.com/,LABEL_1,0.5928671360015869,True
+ব্যায়ামের শরীর হালকা লাগে যেসব কারণে,https://www.risingbd.com/,LABEL_1,0.9789990186691284,True
+অসম প্রেমের গল্প: বক্স অফিসে কতটা জমেছে অজয়-রাকুলের রসায়ন?,https://www.risingbd.com/,LABEL_1,0.9885610938072203,True
+কাসেমিরোর গোলে সেনেগালকে হারালো ব্রাজিল,https://www.risingbd.com/,LABEL_1,0.9806729555130004,True
+ময়মনসিংহে দুষ্কৃতকারীদের আগুনে পুড়ল কাভার্ডভ্যান,https://www.risingbd.com/,LABEL_0,0.9727810621261596,True
+অদম্য স্পেন বিশ্বকাপের দোরগোড়ায়,https://www.risingbd.com/,LABEL_1,0.9943676590919496,True
+"দাউদ ইব্রাহিমের নাম জড়াল নোরার, অভিনেত্রীর কড়া হুঁশিয়ারি",https://www.risingbd.com/,LABEL_0,0.9782635569572448,True
+মেডুসা: ঘুমন্ত অবস্থায় মেরে ফেলা হয়েছিলো,https://www.risingbd.com/,LABEL_0,0.9810531735420228,True
+সেকেন্ডে ডানা ঝাপটাতে হামিং বার্ড,https://www.risingbd.com/,LABEL_1,0.9591864347457886,True
+"আইপিএলে দলে থাকলেন, কারা কোথায় গেলেন",https://www.risingbd.com/,LABEL_1,0.9420331120491028,True
+টিভিতে আজকের খেলা,https://www.risingbd.com/,LABEL_1,0.9951143264770508,True
+দরজা আটকে ঘরে বসেছিল চোর,https://www.risingbd.com/,LABEL_0,0.9271472096443176,True
+শাটডাউন কর্মসূচিঢাকার সড়কে চলাচল স্বাভাবিক,https://www.risingbd.com/,LABEL_1,0.8417834639549255,True
+দিনাজপুরে বাড়ছে শীত,https://www.risingbd.com/,LABEL_1,0.7939167022705078,True
+নাতি বউকে ধর্ষণের অভিযোগ: বিএনপি নেতাকে জুতাপেটা পুলিশে সোপর্দ,https://www.risingbd.com/,LABEL_0,0.9956971406936646,True
+সাভারে দাঁড়িয়ে বাসে আগুন​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​,https://www.risingbd.com/,LABEL_0,0.9245809316635132,True
+আমদানির খবরে হিলিতে কমেছে পেঁয়াজের দাম,https://www.risingbd.com/,LABEL_1,0.7411897778511047,True
+সাতকানিয়ায় রেললাইনে গাছের ডাল ফেলে নাশকতার,https://www.risingbd.com/,LABEL_0,0.9830947518348694,False
+অসম প্রেমের গল্প: বক্স অফিসে কতটা জমেছে অজয়-রাকুলের রসায়ন?,https://www.risingbd.com/,LABEL_1,0.9885610938072203,True
+সাভারে মহাসড়কের পাশে দাঁড়িয়ে বাসে আগুন,https://www.risingbd.com/,LABEL_0,0.9443361759185792,True
+সুষ্ঠু নির্বাচনের দলের সহযোগিতা চাইলেন সিইসি,https://www.risingbd.com/,LABEL_1,0.932351291179657,True
+কুমিল্লা বোর্ডে এইচএসসিতে খাতা চ্যালেঞ্জে জিপিএ- পেলেন,https://www.risingbd.com/,LABEL_0,0.6527482867240906,True
+অদম্য স্পেন বিশ্বকাপের দোরগোড়ায়,https://www.risingbd.com/,LABEL_1,0.9943676590919496,True
+দরজা আটকে ঘরে বসেছিল চোর,https://www.risingbd.com/,LABEL_0,0.9271472096443176,True
+শেয়ারহোল্ডারদের লভ্যাংশ দেবে ওয়েস্টার্ন মেরিন শিপইয়ার্ড,https://www.risingbd.com/,LABEL_1,0.9782694578170776,True
+যুক্তরাজ্যের অভিবাসন নীতি: স্থায়ী নাগরিকত্বে বছর অপেক্ষা,https://www.risingbd.com/,LABEL_0,0.6403314471244812,True
+গোপালগঞ্জে আরো মামলায় আসামি,https://www.risingbd.com/,LABEL_0,0.9374647736549376,True
+কাসেমিরোর গোলে সেনেগালকে হারালো ব্রাজিল,https://www.risingbd.com/,LABEL_1,0.9806729555130004,True
+শমরিতা হাসপাতালের ক্রেডিট রেটিং নির্ণয়,https://www.risingbd.com/,LABEL_1,0.931463062763214,True
+"দাউদ ইব্রাহিমের নাম জড়াল নোরার, অভিনেত্রীর কড়া হুঁশিয়ারি",https://www.risingbd.com/,LABEL_0,0.9782635569572448,True
+গোবিপ্রবির রবি সোমবারের পরীক্ষা স্থগিত,https://www.risingbd.com/,LABEL_1,0.5928671360015869,True
+ব্যায়ামের শরীর হালকা লাগে যেসব কারণে,https://www.risingbd.com/,LABEL_1,0.9789990186691284,True
+ময়মনসিংহে দুষ্কৃতকারীদের আগুনে পুড়ল কাভার্ডভ্যান,https://www.risingbd.com/,LABEL_0,0.9727810621261596,True
+"মেক্সিকোতে জেন-জি বিক্ষোভকারীদের পুলিশের সংঘর্ষ, আহত",https://www.risingbd.com/,LABEL_0,0.9616774916648864,True
+ঢাকা-বরিশাল মহাসড়কে গাছ ফেলে অবরোধ,https://www.risingbd.com/,LABEL_0,0.8991122841835022,True
+ইন্দো-বাংলা ফার্মাসিউটিক্যালসের লভ্যাংশ ঘোষণা,https://www.risingbd.com/,LABEL_1,0.9498035311698914,True
+ঢাকার সড়কে চলাচল স্বাভাবিক,https://www.risingbd.com/,LABEL_1,0.9849292635917664,True
+"ভয়াবহ আগুন কলকাতার বড়বাজারে, ঘটনাস্থলে দমকলের ইঞ্জিন",https://www.risingbd.com/,LABEL_1,0.6267040371894836,True
+টিভিতে আজকের খেলা,https://www.risingbd.com/,LABEL_1,0.9951143264770508,True
+জামালপুর কারা কর্তৃপক্ষের বিরুদ্ধে মুক্তিযোদ্ধা পরিবারের জমি দখলের অভিযোগ,https://www.risingbd.com/,LABEL_0,0.9613262414932252,True
+বিএনপি ক্ষমতায় সংসদে আলোচনা কাদিয়ানিদের বিষয়ে সিদ্ধান্ত: সালাহউদ্দিন,https://www.risingbd.com/,LABEL_0,0.984218418598175,True
+বিএনপির স্লোগান ‘অর্থনৈতিক গণতন্ত্রায়ণ’: আমীর খসরু,https://www.risingbd.com/,LABEL_1,0.9737754464149476,True
+আশরাফুলের পরিকল্পিতভাবে প্রেমের সম্পর্ক গড়েন কোহিনূর: র‌্যাব,https://www.risingbd.com/,LABEL_0,0.9749433994293212,True
+"মেসির গোল, আর্জেন্টিনার জয়",https://www.risingbd.com/,LABEL_1,0.994296133518219,True
+"রাজশাহীতে দুর্ঘটনায় কলেজছাত্রের মৃত্যু, ট্রাকে আগুন",https://www.risingbd.com/,LABEL_0,0.9457995295524596,True
+পাবনায় জমি বিরোধে ভাতিজার হাতে ফুফু খুন,https://www.risingbd.com/,LABEL_0,0.9900068044662476,True
+পুঁজিবাজারে মূলধন কমেছে টাকা,https://www.risingbd.com/,LABEL_0,0.7463526129722595,True
+ডিএসইতে সাপ্তাহিক দাম বাড়ার শীর্ষে আল-আরাফাহ ইসলামী ব্যাংক,https://www.risingbd.com/,LABEL_1,0.9877463579177856,True
+সপ্তাহের রাশিফল (- নভেম্বর),https://www.risingbd.com/,LABEL_1,0.9840372800827026,True
+পোশাকে পুলিশ,https://www.risingbd.com/,LABEL_1,0.9938375353813172,False
+আ.লীগের নিয়মিত পোস্ট দেওয়ায় ইবি শিক্ষার্থীকে থানায় সোর্পদ,https://www.risingbd.com/,LABEL_0,0.9693747162818908,True
+অল্প কয়েকটি উপকরণ দিয়ে বানিয়ে নিন ফুলকপির চপ,https://www.risingbd.com/,LABEL_1,0.9888055324554444,True
+ব্যায়ামের শরীর হালকা লাগে যেসব কারণে,https://www.risingbd.com/,LABEL_1,0.9789990186691284,True
+অল্প কয়েকটি উপকরণ দিয়ে বানিয়ে নিন ফুলকপির চপ,https://www.risingbd.com/,LABEL_1,0.9888055324554444,True
+শীতে চুল ‘ডিপ কন্ডিশনিং’ উপায়,https://www.risingbd.com/,LABEL_1,0.8970497250556946,True
+শীতের লিপস্টিক কেমন হওয়া,https://www.risingbd.com/,LABEL_1,0.9956679344177246,True
+উদ্বেগ কমাতে ‘ ’ কৌশল প্রয়োগ দেখুন,https://www.risingbd.com/,LABEL_1,0.919101357460022,True
+শীতে ত্বকের যত্নে নিয়ম মেনে চলতে,https://www.risingbd.com/,LABEL_1,0.9813066720962524,True
+‘মাশরুম’ ওজন নিয়ন্ত্রণ পারে?,https://www.risingbd.com/,LABEL_1,0.8858978152275085,True
+বিকেলের নাস্তায় থাকুক ‘মিষ্টি কুমড়ার স্যুপ’,https://www.risingbd.com/,LABEL_1,0.9927663803100586,True
+শেয়ারহোল্ডারদের লভ্যাংশ দেবে ওয়েস্টার্ন মেরিন শিপইয়ার্ড,https://www.risingbd.com/,LABEL_1,0.9782694578170776,True
+শমরিতা হাসপাতালের ক্রেডিট রেটিং নির্ণয়,https://www.risingbd.com/,LABEL_1,0.931463062763214,True
+ইন্দো-বাংলা ফার্মাসিউটিক্যালসের লভ্যাংশ ঘোষণা,https://www.risingbd.com/,LABEL_1,0.9498035311698914,True
+বেক্সিমকো সিকিউরিটিজের সনদ নবায়ন বাতিল,https://www.risingbd.com/,LABEL_0,0.7082712650299072,True
+প্রতিষ্ঠানের নেগেটিভ ইক্যুইটি লস প্রভিশনিংয়ের সময় বৃদ্ধি,https://www.risingbd.com/,LABEL_1,0.932552695274353,True
+ডিএসইতে সাপ্তাহিক দাম কমার শীর্ষে প্রগতি লাইফ ইন্স্যুরেন্স,https://www.risingbd.com/,LABEL_1,0.9896211624145508,True
+সুষ্ঠু নির্বাচনের দলের সহযোগিতা চাইলেন সিইসি,https://www.risingbd.com/,LABEL_1,0.932351291179657,True
+দল গণভোট ক্যাম্পেইন করছে: আখতার,https://www.risingbd.com/,LABEL_1,0.9687703847885132,True
+সেকেন্ডে ডানা ঝাপটাতে হামিং বার্ড,https://www.risingbd.com/,LABEL_1,0.9591864347457886,True
+পৃথিবীতে বসবাসকারী মানুষ পিঁপড়ার ওজন সমান!,https://www.risingbd.com/,LABEL_0,0.556334376335144,True
+দ্রুত সমস্যা সমাধান পাখি,https://www.risingbd.com/,LABEL_1,0.9938402771949768,True
+শীতকাল এলেই ‘স্নো ফেইরি’ হয়ে যায় বরফের বলের,https://www.risingbd.com/,LABEL_0,0.621527373790741,True
+পাখি দিনের টায়,https://www.risingbd.com/,LABEL_1,0.9707849621772766,False
+‘ঝামেলার শেষ নেই’ দিবস,https://www.risingbd.com/,LABEL_0,0.8962744474411011,True
+যুক্তরাজ্যের অভিবাসন নীতি: স্থায়ী নাগরিকত্বে বছর অপেক্ষা,https://www.risingbd.com/,LABEL_0,0.6403314471244812,True
+শেয়ারহোল্ডারদের লভ্যাংশ দেবে ওয়েস্টার্ন মেরিন শিপইয়ার্ড,https://www.risingbd.com/,LABEL_1,0.9782694578170776,True
+সাতকানিয়ায় রেললাইনে গাছের ডাল ফেলে নাশকতার,https://www.risingbd.com/,LABEL_0,0.9830947518348694,False
+সাভারে মহাসড়কের পাশে দাঁড়িয়ে বাসে আগুন,https://www.risingbd.com/,LABEL_0,0.9443361759185792,True
+কুমিল্লা বোর্ডে এইচএসসিতে খাতা চ্যালেঞ্জে জিপিএ- পেলেন,https://www.risingbd.com/,LABEL_0,0.6527482867240906,True
+দরজা আটকে ঘরে বসেছিল চোর,https://www.risingbd.com/,LABEL_0,0.9271472096443176,True
+গোপালগঞ্জে আরো মামলায় আসামি,https://www.risingbd.com/,LABEL_0,0.9374647736549376,True
+ময়মনসিংহে দুষ্কৃতকারীদের আগুনে পুড়ল কাভার্ডভ্যান,https://www.risingbd.com/,LABEL_0,0.9727810621261596,True
+অদম্য স্পেন বিশ্বকাপের দোরগোড়ায়,https://www.risingbd.com/,LABEL_1,0.9943676590919496,True
+কাসেমিরোর গোলে সেনেগালকে হারালো ব্রাজিল,https://www.risingbd.com/,LABEL_1,0.9806729555130004,True
+টিভিতে আজকের খেলা,https://www.risingbd.com/,LABEL_1,0.9951143264770508,True
+"আইপিএলে দলে থাকলেন, কারা কোথায় গেলেন",https://www.risingbd.com/,LABEL_1,0.9420331120491028,True
+"ইডেনে স্পিন বিষ, উইকেটের দিনে উড়ছে ভারত",https://www.risingbd.com/,LABEL_1,0.565440833568573,True
+অসম প্রেমের গল্প: বক্স অফিসে কতটা জমেছে অজয়-রাকুলের রসায়ন?,https://www.risingbd.com/,LABEL_1,0.9885610938072203,True
+"দাউদ ইব্রাহিমের নাম জড়াল নোরার, অভিনেত্রীর কড়া হুঁশিয়ারি",https://www.risingbd.com/,LABEL_0,0.9782635569572448,True
+পারভেজের কথায় ‘বিজয় নেবে ধানের শীষ’,https://www.risingbd.com/,LABEL_1,0.9784325361251832,True
+তারকাবহুল পাঁচ সিনেমার বক্স অফিসে ভরাডুবি,https://www.risingbd.com/,LABEL_0,0.9402211308479308,True
+অমিতাভ রেজার বিয়ে,https://www.risingbd.com/,LABEL_1,0.9941385984420776,True
+শাকিবের নায়িকা পাকিস্তানের হানিয়া,https://www.risingbd.com/,LABEL_0,0.9565006494522096,False
+পরিচয়ে জিতের স্ত্রী,https://www.risingbd.com/,LABEL_1,0.9963576197624208,True
+"ব্রিটেনের রাজাকে চুমু, পদ্মিনীকে কতটা জানেন?",https://www.risingbd.com/,LABEL_0,0.9860963225364684,True
+"ক্রিকেটারের প্রেম, গোপনে পাইলটকে নায়িকার বিয়ে!",https://www.risingbd.com/,LABEL_0,0.93086177110672,True
+জনপ্রিয়তা-বিতর্ক কাঁধে নীলনয়নার উনিশ,https://www.risingbd.com/,LABEL_1,0.6388403177261353,True
+রাজেশ খান্নার নাতনিকে কতটা চেনেন?,https://www.risingbd.com/,LABEL_1,0.9178339838981628,True
+কানতারা টু: ‘রাজকন্যা কঙ্কাবতী’ রুক্মিণীকে কতটা জানেন?,https://www.risingbd.com/,LABEL_1,0.9649564027786256,True
+শাহরুখপুত্রের হাত নায়িকার ভাগ্যবদল,https://www.risingbd.com/,LABEL_0,0.8392274379730225,True
+পোশাকে পুলিশ,https://www.risingbd.com/,LABEL_1,0.9938375353813172,False
+সার্চ দুনিয়ার দিগন্ত ‘জিইও’: দেশের ব্যবসা প্রতিষ্ঠানগুলো প্রস্তুত?,https://www.risingbd.com/,LABEL_1,0.941474974155426,True
+শরৎ-রহস্য,https://www.risingbd.com/,LABEL_1,0.9914888143539428,True
+পোখরার দিন-রাত,https://www.risingbd.com/,LABEL_1,0.837407648563385,True
+"জুলাই সনদ মতপার্থক্য, ‘সরকার প্রস্তুত সিদ্ধান্তে’",https://www.risingbd.com/,LABEL_0,0.687289297580719,True
+রাজনীতিতে সমীকরণএনসিপির নেতৃত্বে ‘মধ্যপন্থী’ জোট,https://www.risingbd.com/,LABEL_1,0.9849042892456056,True
+এনসিপির টার্গেট দেড়শ আসন?,https://www.risingbd.com/,LABEL_1,0.9427890777587892,True
+দ্বিতীয় পর্ব অ্যানথ্রাক্স প্রতিরোধে সরকার,https://www.risingbd.com/,LABEL_1,0.6805452704429626,True
+জুলাই সনদ: গণভোট নির্ধারণে কমিশনের বল সরকারের কোর্টে,https://www.risingbd.com/,LABEL_0,0.5681453943252563,True
+জুলাই সনদ বাস্তবায়ন : বিএনপি-জামায়াতের বিপরীত মেরুতে অবস্থান,https://www.risingbd.com/,LABEL_0,0.82346111536026,True
+মেডুসা: ঘুমন্ত অবস্থায় মেরে ফেলা হয়েছিলো,https://www.risingbd.com/,LABEL_0,0.9810531735420228,True
+অতিরিক্ত পালং শাক খেলে যেসব ক্ষতি,https://www.risingbd.com/,LABEL_0,0.7100135087966919,True
+গোবিপ্রবির রবি সোমবারের পরীক্ষা স্থগিত,https://www.risingbd.com/,LABEL_1,0.5928671360015869,True
+"ট্যাক্সি চালিয়ে গড়েছেন শিক্ষাপ্রতিষ্ঠান, নিউইয়র্কে সংবর্ধিত মোশারফ",https://www.risingbd.com/,LABEL_1,0.9435537457466124,True
+সুপারির দাম টাকা,https://www.risingbd.com/,LABEL_1,0.9913231134414672,False
+কেঁচোর জাদুতে গেলো কামরুজ্জামানের ভাগ্য,https://www.risingbd.com/,LABEL_0,0.958876371383667,True
+"কুষ্টিয়ার সাইফুল মাশরুম চাষে সফল, দিয়েছেন প্রশিক্ষণ",https://www.risingbd.com/,LABEL_1,0.971991777420044,True
+বছর বৃক্ষ রোপণ চা শ্রমিক বিষ্ণু,https://www.risingbd.com/,LABEL_1,0.9836292862892152,True
+‍‍ছাগল পালনে সাবলম্বী তৃতীয় লিঙ্গের ‍শিলা,https://www.risingbd.com/,LABEL_1,0.9763526320457458,True
+তামাক চাষ ছেড়ে পেঁপেতে বাজিমাত,https://www.risingbd.com/,LABEL_1,0.5619552731513977,False
+এইচএসসির খাতা পুনঃনিরীক্ষণের ফল প্রকাশ,https://www.dhakapost.com/,LABEL_1,0.9427866339683532,True
+ইতিহাসের অমূল্য স্মারক বগুড়ার খেরুয়া মসজিদ,https://www.dhakapost.com/,LABEL_1,0.9926984906196594,True
+"ইব্রাহিমি মসজিদ বন্ধ দিলো ইসরায়েল, ফিলিস্তিনিদের ওপর কারফিউ",https://www.dhakapost.com/,LABEL_0,0.996357262134552,True
+চীনে বছরের সবচেয়ে বড় স্বর্ণের খনির সন্ধান,https://www.dhakapost.com/,LABEL_0,0.6725577712059021,True
+"ঢাকার বাতাস আজও ‘অস্বাস্থ্যকর’, দূষণে শীর্ষে দিল্লি",https://www.dhakapost.com/,LABEL_0,0.9516329169273376,True
+আবু সাঈদ হত্যা : সাবেক ভিসিসহ বিরুদ্ধে তম দিনের সাক্ষ্য,https://www.dhakapost.com/,LABEL_0,0.9725552201271056,True
+নৌপরিবহন অধিদপ্তরের পক্ষপাতমূলক আচরণ বন্ধসহ দাবি,https://www.dhakapost.com/,LABEL_1,0.7232438921928406,True
+"নিউ ইস্কাটন রোডে ককটেল বিস্ফোরণ, পথচারী আহত",https://www.dhakapost.com/,LABEL_0,0.8945366740226746,True
+"জলবায়ু অর্থায়ন দরকষাকষির বিষয় নয়, টিকে থাকার প্রশ্ন : ফরিদা আখতার",https://www.dhakapost.com/,LABEL_1,0.9627301692962646,True
+"ঢাকার সকালের তাপমাত্রা . ডিগ্রি, আকাশ আংশিক মেঘলা",https://www.dhakapost.com/,LABEL_1,0.8177846670150757,True
+"লিবিয়া উপকূলে বাংলাদেশিকে নৌকাডুবি, মৃত্যু",https://www.dhakapost.com/,LABEL_0,0.990638017654419,True
+সুষ্ঠু অংশগ্রহণমূলক ভোট দলগুলোর সহযোগিতা চাইলেন সিইসি,https://www.dhakapost.com/,LABEL_1,0.9110123515129088,True
+মতামত,https://www.dhakapost.com/,LABEL_1,0.997033715248108,True
+শিশুর মনন গঠনে দেশে পড়ানো হয়?,https://www.dhakapost.com/,LABEL_0,0.7931904792785645,True
+মতামত,https://www.dhakapost.com/,LABEL_1,0.997033715248108,True
+শিশুর মনন গঠনে দেশে পড়ানো হয়?,https://www.dhakapost.com/,LABEL_0,0.7931904792785645,True
+জাতীয়,https://www.dhakapost.com/,LABEL_1,0.9814361929893494,False
+শেখ হাসিনার রায় সরাসরি দেখবে বিশ্ব,https://www.dhakapost.com/,LABEL_1,0.955345094203949,True
+দলের সংলাপে ইসি,https://www.bd-pratidin.com/,LABEL_1,0.9141952395439148,True
+সিলেটে অ্যাম্বুলেন্স বাসে আগুন,https://www.bd-pratidin.com/,LABEL_0,0.8720297813415527,True
+চীনা বিনিয়োগে বৈশ্বিক রপ্তানিকেন্দ্র হওয়ার বিশাল সম্ভাবনা বাংলাদেশের,https://www.bd-pratidin.com/,LABEL_1,0.9780901670455932,True
+প্রবাসীরা প্রথমবারের মতো পদ্ধতিতে ভোট দেবেন,https://www.bd-pratidin.com/,LABEL_1,0.9848095774650574,True
+"বাংলাদেশি লিবিয়া উপকূলে নৌকাডুবি, চারজনের মৃত্যু",https://www.bd-pratidin.com/,LABEL_0,0.9869174957275392,True
+যান্ত্রিক ত্রুটির কারণে গাজীপুরে চলন্ত বাসে আগুন!,https://www.bd-pratidin.com/,LABEL_0,0.9252962470054626,True
+অনিয়মের প্রমাণ পায়নি বিসিবি,https://www.bd-pratidin.com/,LABEL_1,0.921787679195404,True
+রাশিয়ার তেল শোধনাগারে হামলার দাবি ইউক্রেনের,https://www.bd-pratidin.com/,LABEL_0,0.988509476184845,True
+আবু সাঈদ হত্যা: সাবেক ভিসিসহ বিরুদ্ধে সাক্ষ্য,https://www.bd-pratidin.com/,LABEL_0,0.9820981621742249,True
+বিহারের বিধায়কদের শতাংশই কোটিপতি,https://www.bd-pratidin.com/,LABEL_0,0.9037029147148132,True
+গাজায় ভারী বৃষ্টি: বিপর্যস্ত ক্যাম্প বাসিন্দাদের তাঁবু সঙ্কট,https://www.bd-pratidin.com/,LABEL_0,0.9305407404899596,True
+মাদারীপুরে গাছ ফেলে সড়ক অবরোধ,https://www.bd-pratidin.com/,LABEL_0,0.9073126316070556,True
+ঢাকা বোর্ডে পুনর্নিরীক্ষায় জিপিএ– পেল শিক্ষার্থী,https://www.bd-pratidin.com/,LABEL_1,0.5066356658935547,True
+হাজারীবাগ বেড়িবাঁধে দাঁড়িয়ে বাসে আগুন,https://www.bd-pratidin.com/,LABEL_0,0.9481767416000366,True
+আগারগাঁওয়ে ককটেল বিস্ফোরণ,https://www.bd-pratidin.com/,LABEL_0,0.8562753200531006,True
+বিমানবন্দর রেলস্টেশনে ককটেল বিস্ফোরণ,https://www.bd-pratidin.com/,LABEL_0,0.9003878831863403,True
+সহিংসতার বিরুদ্ধে ক্ষোভ: জেন-জি আন্দোলনে উত্তপ্ত মেক্সিকো,https://www.bd-pratidin.com/,LABEL_0,0.883989691734314,True
+"আইপিএলে দলে, দেখুন পূর্ণাঙ্গ স্কোয়াড",https://www.bd-pratidin.com/,LABEL_1,0.9535158276557922,True
+"'দাউদের মাদক পার্টিতে নোরা', পুলিশের নজরে অভিনেত্রী",https://www.bd-pratidin.com/,LABEL_0,0.9877054691314696,True
+মিস ইউনিভার্স মঞ্চের কঠিন বাস্তবতার কথা জানালেন বাংলাদেশের মিথিলা,https://www.bd-pratidin.com/,LABEL_1,0.6877192854881287,True
+ফিলিস্তিনির মরদেহ হস্তান্তর করলো ইসরায়েল,https://www.bd-pratidin.com/,LABEL_0,0.9315324425697328,True
+"মেক্সিকোতে জেন-জির বিক্ষোভ, পুলিশের সংঘর্ষে আহত",https://www.bd-pratidin.com/,LABEL_0,0.9546278715133668,True
+গাজা-মধ্যপ্রাচ্য পুতিন-নেতানিয়াহু ফোনালাপ,https://www.bd-pratidin.com/,LABEL_0,0.9861361980438232,True
+"‘যে দলের প্রধান পালিয়ে গেছে, কথায় বিভ্রান্ত হওয়ার নাই’",https://www.bd-pratidin.com/,LABEL_0,0.8579106330871582,True
+"‘যে দলের প্রধান পালিয়ে গেছে, কথায় বিভ্রান্ত হওয়ার নাই’",https://www.bd-pratidin.com/,LABEL_0,0.8579106330871582,True
+ভোট দেওয়ার দেশের মানুষ মুখিয়ে আছে: মোশারফ হোসেন,https://www.bd-pratidin.com/,LABEL_1,0.982353687286377,True
+ধর্মকে রাজনীতিতে আনবেন না: ডা. জাহিদ,https://www.bd-pratidin.com/,LABEL_0,0.9864441752433776,True
+জুলাই শহীদদের পরিচয় শনাক্তে আন্তর্জাতিক ফরেনসিক টিম আসছে ডিসেম্বর,https://www.bd-pratidin.com/,LABEL_1,0.7928916215896606,True
+শেখ হাসিনার রায় সরাসরি সম্প্রচার বিটিভি,https://www.bd-pratidin.com/,LABEL_1,0.774318516254425,True
+ঠাকুরগাঁওয়ে সাঁওতাল জনগোষ্ঠীর জীবনমান উন্নয়নে শুভসংঘের উদ্যোগে আলোচনা সভা,https://www.bd-pratidin.com/,LABEL_1,0.9708778858184814,True
+রাজধানীতে নিষিদ্ধ আওয়ামী লীগের নেতাকর্মী গ্রেফতার,https://www.bd-pratidin.com/,LABEL_0,0.9891708493232728,True
+পাঁচ ব্যাংক একীভূতকরণের বিকল্প : গভর্নর,https://www.bd-pratidin.com/,LABEL_1,0.7712764739990234,True
+অনিয়মের প্রমাণ পায়নি বিসিবি,https://www.bd-pratidin.com/,LABEL_1,0.921787679195404,True
+শ্রীপুরে গ্রামীণ ব্যাংকে পেট্রোল বোমা নিক্ষেপ,https://www.bd-pratidin.com/,LABEL_0,0.948324978351593,False
+‘এভাবে এগোতে থাকলে ব্যালন ডি’অরের আলোচনায় নিশ্চিতভাবেই থাকব’,https://www.bd-pratidin.com/,LABEL_1,0.9248999953269958,True
+গোপালগঞ্জের বোড়াশীতে বিএনপির কর্মী সমাবেশ,https://www.bd-pratidin.com/,LABEL_1,0.7420350909233093,True
+রাশিয়ার তেল শোধনাগারে হামলার দাবি ইউক্রেনের,https://www.bd-pratidin.com/,LABEL_0,0.988509476184845,True
+আবু সাঈদ হত্যা: সাবেক ভিসিসহ বিরুদ্ধে সাক্ষ্য,https://www.bd-pratidin.com/,LABEL_0,0.9820981621742249,True
+বিহারের বিধায়কদের শতাংশই কোটিপতি,https://www.bd-pratidin.com/,LABEL_0,0.9037029147148132,True
+লেভেল প্লেয়িং ফিল্ড নিশ্চিত চায় কমিশন : সিইসি,https://www.bd-pratidin.com/,LABEL_1,0.955471932888031,True
+এমবাপ্পেকে ছাড়াই রাতে মাঠে নামছে ফ্রান্স,https://www.bd-pratidin.com/,LABEL_1,0.5456264019012451,True
+গাজায় ভারী বৃষ্টি: বিপর্যস্ত ক্যাম্প বাসিন্দাদের তাঁবু সঙ্কট,https://www.bd-pratidin.com/,LABEL_0,0.9305407404899596,True
+নিউ ইস্কাটন রোডে ফ্লাইওভার ছোড়া ককটেলে পথচারী আহত,https://www.bd-pratidin.com/,LABEL_0,0.9556156396865844,True
+মাদারীপুরে গাছ ফেলে সড়ক অবরোধ,https://www.bd-pratidin.com/,LABEL_0,0.9073126316070556,True
+মাদ্রাসা শিক্ষা বোর্ড : খাতা চ্যালেঞ্জে ফেল পাস শিক্ষার্থী,https://www.bd-pratidin.com/,LABEL_0,0.7610993981361389,False
+ফিলিস্তিনির মরদেহ হস্তান্তর করলো ইসরায়েল,https://www.bd-pratidin.com/,LABEL_0,0.9315324425697328,True
+এলিভেটেড এক্সপ্রেসওয়ের নিচে সবুজায়ন উদ্যোগ,https://www.bd-pratidin.com/,LABEL_1,0.9367895126342772,True
+দলের সংলাপে ইসি,https://www.bd-pratidin.com/,LABEL_1,0.9141952395439148,True
+"মেক্সিকোতে জেন-জির বিক্ষোভ, পুলিশের সংঘর্ষে আহত",https://www.bd-pratidin.com/,LABEL_0,0.9546278715133668,True
+"আইপিএলে দলে, দেখুন পূর্ণাঙ্গ স্কোয়াড",https://www.bd-pratidin.com/,LABEL_1,0.9535158276557922,True
+ঢাকা বোর্ডে পুনর্নিরীক্ষায় জিপিএ– পেল শিক্ষার্থী,https://www.bd-pratidin.com/,LABEL_1,0.5066356658935547,True
+বিদায়ী জেলা প্রশাসককে সংবর্ধনা দিল ব্রাহ্মণবাড়িয়া প্রেসক্লাব,https://www.bd-pratidin.com/,LABEL_1,0.9652993679046632,True
+সিডনিতে খতমে হিফজুল কুরআন আলিমিয়্যাহ গ্র্যাজুয়েশন অনুষ্ঠান,https://www.bd-pratidin.com/,LABEL_1,0.98080974817276,True
+"চোখ বন্ধ, হাসি নেই: এক ক্লিকেই গুগল ফটোস",https://www.bd-pratidin.com/,LABEL_1,0.969760537147522,True
+গাজা-মধ্যপ্রাচ্য পুতিন-নেতানিয়াহু ফোনালাপ,https://www.bd-pratidin.com/,LABEL_0,0.9861361980438232,True
+মিস ইউনিভার্স মঞ্চের কঠিন বাস্তবতার কথা জানালেন বাংলাদেশের মিথিলা,https://www.bd-pratidin.com/,LABEL_1,0.6877192854881287,True
+বিশ্বকাপের ‘মাস্টার প্ল্যান’ জানালেন ব্রাজিল কোচ,https://www.bd-pratidin.com/,LABEL_1,0.9038812518119812,True
+শেখ হাসিনার রায় সরাসরি সম্প্রচার বিটিভি,https://www.bd-pratidin.com/,LABEL_1,0.774318516254425,True
+আবু সাঈদ হত্যা: সাবেক ভিসিসহ বিরুদ্ধে সাক্ষ্য,https://www.bd-pratidin.com/,LABEL_0,0.9820981621742249,True
+লেভেল প্লেয়িং ফিল্ড নিশ্চিত চায় কমিশন : সিইসি,https://www.bd-pratidin.com/,LABEL_1,0.955471932888031,True
+"ঢাকার বাতাস আজও ‘অস্বাস্থ্যকর’, শীর্ষে দিল্লি",https://www.bd-pratidin.com/,LABEL_0,0.9502796530723572,True
+অপশক্তিই নির্বাচন বানচাল পারবে : আইজিপি,https://www.bd-pratidin.com/,LABEL_0,0.934007465839386,True
+রাজনীতি আগের চলবে না: আমীর খসরু,https://www.bd-pratidin.com/,LABEL_1,0.7627192735671997,True
+‘‌বিএনপি ক্ষমতায় নারীদের প্রতিষ্ঠিত উদ্যোগ হবে’,https://www.bd-pratidin.com/,LABEL_1,0.6308697462081909,True
+রাজনীতিতে ফ্যাসিবাদ প্রত্যাবর্তনের ষড়যন্ত্র নস্যাৎ : মামুনুল হক,https://www.bd-pratidin.com/,LABEL_0,0.5056963562965393,True
+গারোদের সাংস্কৃতিক কর্মকাণ্ড দেশকে সমৃদ্ধ বৈচিত্র্যময় : প্রিন্স,https://www.bd-pratidin.com/,LABEL_1,0.9846908450126648,True
+"গণভোটে ‘না’ বলার সুযোগ কোথায়, প্রশ্ন রিজভীর",https://www.bd-pratidin.com/,LABEL_0,0.5591397881507874,True
+ক্ষমতায় পদ্মা-তিস্তার পানি বণ্টন ইস্যুতে গুরুত্ব দেবে বিএনপি: মির্জা ফখরুল,https://www.bd-pratidin.com/,LABEL_0,0.65885990858078,True
+মিস ইউনিভার্স মঞ্চের কঠিন বাস্তবতার কথা জানালেন বাংলাদেশের মিথিলা,https://www.bd-pratidin.com/,LABEL_1,0.6877192854881287,True
+"'দাউদের মাদক পার্টিতে নোরা', পুলিশের নজরে অভিনেত্রী",https://www.bd-pratidin.com/,LABEL_0,0.9877054691314696,True
+সবাই ছেড়ে যাচ্ছে: অমিতাভ বচ্চন,https://www.bd-pratidin.com/,LABEL_1,0.9242105484008788,True
+ফুয়াদের সুরে কনার গান,https://www.bd-pratidin.com/,LABEL_1,0.9841482639312744,True
+কাভিশ ব্যান্ডের এক মঞ্চে শিরোনামহীন-মেঘদল,https://www.bd-pratidin.com/,LABEL_1,0.9814493060112,True
+"ছবি বাদ, তবুও অবস্থানে অটল দীপিকা",https://www.bd-pratidin.com/,LABEL_1,0.8591042160987854,True
+রাজস্থানে শুটিং চলাকালীন অল্পের প্রাণে বেঁচেছিলেন বিবেক,https://www.bd-pratidin.com/,LABEL_1,0.7473576664924622,True
+বিহারের বিধায়কদের শতাংশই কোটিপতি,https://www.bd-pratidin.com/,LABEL_0,0.9037029147148132,True
+গাজায় ভারী বৃষ্টি: বিপর্যস্ত ক্যাম্প বাসিন্দাদের তাঁবু সঙ্কট,https://www.bd-pratidin.com/,LABEL_0,0.9305407404899596,True
+ফিলিস্তিনির মরদেহ হস্তান্তর করলো ইসরায়েল,https://www.bd-pratidin.com/,LABEL_0,0.9315324425697328,True
+"মেক্সিকোতে জেন-জির বিক্ষোভ, পুলিশের সংঘর্ষে আহত",https://www.bd-pratidin.com/,LABEL_0,0.9546278715133668,True
+গাজা-মধ্যপ্রাচ্য পুতিন-নেতানিয়াহু ফোনালাপ,https://www.bd-pratidin.com/,LABEL_0,0.9861361980438232,True
+আন্তর্জাতিক সহনশীলতা দিবস,https://www.bd-pratidin.com/,LABEL_1,0.9956320524215698,True
+"গাজাকে বিভক্ত পরিকল্পনা, পুনর্গঠন নিরাপত্তা শঙ্কা",https://www.bd-pratidin.com/,LABEL_0,0.9705779552459716,True
+"বাংলাদেশি লিবিয়া উপকূলে নৌকাডুবি, চারজনের মৃত্যু",https://www.bd-pratidin.com/,LABEL_0,0.9869174957275392,True
+চীনা নাগরিকদের জাপান ভ্রমণ আহ্বান,https://www.bd-pratidin.com/,LABEL_1,0.962670087814331,True
+সহিংসতার বিরুদ্ধে ক্ষোভ: জেন-জি আন্দোলনে উত্তপ্ত মেক্সিকো,https://www.bd-pratidin.com/,LABEL_0,0.883989691734314,True
+পশ্চিমতীরের ইব্রাহিমি মসজিদ বন্ধ দিল ইসরায়েল,https://www.bd-pratidin.com/,LABEL_0,0.9966160655021667,True
+"ঘণ্টায় ডেঙ্গুতে মৃত্যু, হাসপাতালে",https://www.bd-pratidin.com/,LABEL_0,0.9484741687774658,True
+ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে হাসপাতালে ভর্তি,https://www.bd-pratidin.com/,LABEL_0,0.940357744693756,True
+"ঘণ্টায় ডেঙ্গুতে তিনজনের মৃত্যু, হাসপাতালে",https://www.bd-pratidin.com/,LABEL_0,0.9422191381454468,True
+রামেক হাসপাতালে ডেঙ্গুতে শিশুর মৃত্যু,https://www.bd-pratidin.com/,LABEL_0,0.9378804564476012,True
+আজকের ভাগ্যচক্র,https://www.bd-pratidin.com/,LABEL_1,0.984701693058014,True
+রাজধানীতে নিষিদ্ধ আওয়ামী লীগের নেতাকর্মী গ্রেফতার,https://www.bd-pratidin.com/,LABEL_0,0.9891708493232728,True
+নিউ ইস্কাটন রোডে ফ্লাইওভার ছোড়া ককটেলে পথচারী আহত,https://www.bd-pratidin.com/,LABEL_0,0.9556156396865844,True
+এলিভেটেড এক্সপ্রেসওয়ের নিচে সবুজায়ন উদ্যোগ,https://www.bd-pratidin.com/,LABEL_1,0.9367895126342772,True
+রাজধানীতে অভিযানে নিষিদ্ধ যুবলীগের নেতাকর্মী গ্রেফতার,https://www.bd-pratidin.com/,LABEL_0,0.9866254329681396,True
+সোভিয়েত যুগের রাশিয়া আবারও বিশ্বে প্রভাববলয় গড়ে তুলছে,https://www.bd-pratidin.com/,LABEL_1,0.9526724815368652,True
+সুষ্ঠু নির্বাচনে সেনাবাহিনীই ভরসা,https://www.bd-pratidin.com/,LABEL_1,0.993300437927246,True
+নির্বাচন সংশয়ের অবসান,https://www.bd-pratidin.com/,LABEL_1,0.9822636246681212,True
+মাদারীপুরে গাছ ফেলে সড়ক অবরোধ,https://www.bd-pratidin.com/,LABEL_0,0.9073126316070556,True
+বিদায়ী জেলা প্রশাসককে সংবর্ধনা দিল ব্রাহ্মণবাড়িয়া প্রেসক্লাব,https://www.bd-pratidin.com/,LABEL_1,0.9652993679046632,True
+নোয়াখালী- আসনে প্রার্থীর জেলা বিএনপির নির্বাচনী সমাবেশ,https://www.bd-pratidin.com/,LABEL_0,0.598221480846405,True
+মাওয়া এক্সপ্রেসওয়েতে পৃথক দুর্ঘটনায় পথচারীর মৃত্যু,https://www.bd-pratidin.com/,LABEL_0,0.9102159738540648,True
+মুন্সীগঞ্জে কুইজ প্রতিযোগিতা অনুষ্ঠিত,https://www.bd-pratidin.com/,LABEL_1,0.9855756759643556,True
+পাকুন্দিয়ায় আগুনে পুড়ল দোকান,https://www.bd-pratidin.com/,LABEL_0,0.9106847047805786,True
+"আজকের নামাজের সময়সূচি, নভেম্বর",https://www.bd-pratidin.com/,LABEL_1,0.987840473651886,True
+প্রতিবন্ধী সন্তানের আচরণ কেমন হওয়া,https://www.bd-pratidin.com/,LABEL_1,0.9786208868026732,True
+যেসব পরস্পরকে সহযোগিতা আবশ্যক,https://www.bd-pratidin.com/,LABEL_1,0.98552668094635,True
+প্রাচীন মিসরীয় সভ্যতার দিক,https://www.bd-pratidin.com/,LABEL_1,0.9783576726913452,True
+‘এভাবে এগোতে থাকলে ব্যালন ডি’অরের আলোচনায় নিশ্চিতভাবেই থাকব’,https://www.bd-pratidin.com/,LABEL_1,0.9248999953269958,True
+এমবাপ্পেকে ছাড়াই রাতে মাঠে নামছে ফ্রান্স,https://www.bd-pratidin.com/,LABEL_1,0.5456264019012451,True
+"আইপিএলে দলে, দেখুন পূর্ণাঙ্গ স্কোয়াড",https://www.bd-pratidin.com/,LABEL_1,0.9535158276557922,True
+বিশ্বকাপের ‘মাস্টার প্ল্যান’ জানালেন ব্রাজিল কোচ,https://www.bd-pratidin.com/,LABEL_1,0.9038812518119812,True
+অ্যাশেজের টেস্টে উডকে শঙ্কা,https://www.bd-pratidin.com/,LABEL_0,0.9165118932724,True
+চোটে ইডেন টেস্ট ছিটকে গেলেন শুভমান গিল,https://www.bd-pratidin.com/,LABEL_0,0.9289849996566772,True
+চেন্নাইয়ে অধিনায়কত্ব পাচ্ছেন স্যামসন,https://www.bd-pratidin.com/,LABEL_1,0.9927176237106324,True
+কাতারের ক্লাব আল সাদে মানচিনি,https://www.bd-pratidin.com/,LABEL_1,0.9776412844657898,True
+‘আমি অতিরিক্ত না’,https://www.bd-pratidin.com/,LABEL_0,0.880872905254364,True
+চীনা বিনিয়োগে বৈশ্বিক রপ্তানিকেন্দ্র হওয়ার বিশাল সম্ভাবনা বাংলাদেশের,https://www.bd-pratidin.com/,LABEL_1,0.9780901670455932,True
+দেশের বাজারে কমেছে স্বর্ণের দাম,https://www.bd-pratidin.com/,LABEL_1,0.9420265555381776,True
+অনিশ্চয়তার ছায়ায় টালমাটাল অর্থনীতি,https://www.bd-pratidin.com/,LABEL_0,0.9240659475326538,True
+স্বর্ণের দাম কমেছে,https://www.bd-pratidin.com/,LABEL_1,0.9834903478622437,True
+যুক্তরাষ্ট্র গম মোংলা বন্দরে জাহাজ,https://www.bd-pratidin.com/,LABEL_0,0.5041994452476501,True
+ঠাকুরগাঁওয়ে সাঁওতাল জনগোষ্ঠীর জীবনমান উন্নয়নে শুভসংঘের উদ্যোগে আলোচনা সভা,https://www.bd-pratidin.com/,LABEL_1,0.9708778858184814,True
+বোরহানউদ্দিনে বসুন্ধরা শুভসংঘের সেলাই মেশিন পেলেন অস্বচ্ছল নারী,https://www.bd-pratidin.com/,LABEL_1,0.7219657301902771,True
+বান্দরবানে বসুন্ধরা শুভসংঘের উদ্যোগে প্রাণবন্ত সাহিত্য বিষয়ক পাঠচক্র,https://www.bd-pratidin.com/,LABEL_1,0.9955893754959106,True
+দামুড়হুদায় নিপা ভাইরাস প্রতিরোধে আলোচনা সভা,https://www.bd-pratidin.com/,LABEL_1,0.64388108253479,True
+ফুলবাড়ী বসুন্ধরা শুভসংঘের উদ্যোগে শিক্ষাসামগ্রী বিতরণ,https://www.bd-pratidin.com/,LABEL_1,0.9847391843795776,True
+সিডনিতে খতমে হিফজুল কুরআন আলিমিয়্যাহ গ্র্যাজুয়েশন অনুষ্ঠান,https://www.bd-pratidin.com/,LABEL_1,0.98080974817276,True
+প্রবাসীরা প্রথমবারের মতো পদ্ধতিতে ভোট দেবেন,https://www.bd-pratidin.com/,LABEL_1,0.9848095774650574,True
+কানাডার মন্ট্রিয়েল মাতালেন কুমার শানু সাদনা সারগাম,https://www.bd-pratidin.com/,LABEL_1,0.991529107093811,True
+নিউইয়র্কে নদীতে ঝাঁপ তরুণীকে বাঁচানো তিন পুলিশ অফিসারের একজন বাংলাদেশি,https://www.bd-pratidin.com/,LABEL_1,0.8663029670715332,True
+মধ্যরাতে আকাশ রাঙাবে লিওনিড উল্কাবৃষ্টি,https://www.bd-pratidin.com/,LABEL_0,0.9331361055374146,True
+মঙ্গলের উদ্দেশ্যে রকেট উৎক্ষেপণ অ্যামাজনের প্রতিষ্ঠাতা,https://www.bd-pratidin.com/,LABEL_1,0.5044915080070496,True
+পৃথিবীর ‘হাই রিস্ক জোন’ উঠে এলো গবেষণায়,https://www.bd-pratidin.com/,LABEL_0,0.7027967572212219,True
+সিলেটে বিপুল পরিমাণ মাদক ধ্বংস,https://www.bd-pratidin.com/,LABEL_1,0.7146924138069153,True
+বিশ্বনাথে বিনামূল্যে চিকিৎসাসেবা পেলেন সহস্রাধিক মানুষ,https://www.bd-pratidin.com/,LABEL_1,0.9024702310562134,True
+টানা ঘণ্টা বিদ্যুৎ যেসব এলাকায়,https://www.bd-pratidin.com/,LABEL_1,0.8653998374938965,True
+শনিবার সিলেটের যেসব এলাকায় ঘণ্টা বিদ্যুৎ,https://www.bd-pratidin.com/,LABEL_1,0.611677885055542,True
+প্রেমিকাকে ভিডিও কলে এমসি কলেজ শিক্ষার্থীর আত্মহত্যা,https://www.bd-pratidin.com/,LABEL_0,0.983454704284668,True
+সিলেটকে চোখ রাঙাচ্ছে ডেঙ্গু,https://www.bd-pratidin.com/,LABEL_0,0.8840816020965576,True
+সিলেটে প্রভাব লকডাউনের,https://www.bd-pratidin.com/,LABEL_1,0.7661668658256531,True
+নির্বাচন বানচাল দেশ ভয়াবহ বিপর্যয়ের মুখে পড়বে,https://www.bd-pratidin.com/,LABEL_0,0.9013710618019104,True
+ডেঙ্গু চিকুনগুনিয়া প্রতিরোধে চসিকের ক্রাশ প্রোগ্রাম,https://www.bd-pratidin.com/,LABEL_1,0.8630161285400391,True
+চট্টগ্রামে আকাশ হত্যায় তিনজন গ্রেপ্তার,https://www.bd-pratidin.com/,LABEL_0,0.942150890827179,True
+থানচির নাফাখুমে পর্যটক নিখোঁজ,https://www.bd-pratidin.com/,LABEL_0,0.8013477921485901,True
+মোটরসাইকেলের ধাক্কায় প্রাণ মাদ্রাসা শিক্ষার্থীর,https://www.bd-pratidin.com/,LABEL_0,0.9157164096832277,True
+মাইজভান্ডারী তরিকার মূল শিক্ষা মানবকল্যাণ : কাদের গনি,https://www.bd-pratidin.com/,LABEL_1,0.8997935652732849,True
+"নভেম্বর হাসিনার রায় ধরণের চ্যালেঞ্জ নেই, জানালেন স্বরাষ্ট্র উপদেষ্টা",https://www.bd-pratidin.com/,LABEL_0,0.9036694169044496,True
+"রাতের আধারে জুলাই স্মৃতিস্তম্ভে আ'গু'ন, পুলিশ সদস্য ক্লোজড",https://www.bd-pratidin.com/,LABEL_0,0.9344468712806702,True
+বিএনপি নেতা সালাহউদ্দিনের বক্তব্যের সময় মঞ্চের তেড়ে গেলেন একজন | খতমে নবুওয়ত সম্মেলনে,https://www.bd-pratidin.com/,LABEL_0,0.8547620177268982,True
+"আশরাফুল হত্যায় ব্যবহৃত তার, স্কচটেপ উদ্ধার করলো র‍্যাব",https://www.bd-pratidin.com/,LABEL_0,0.9854443669319152,True
+‘নির্বাচন হওয়ার পক্ষের রাজনৈতিক শক্তি সময়ের চেয়ে বলিষ্ঠ’: দেবপ্রিয় ভট্টাচার্য,https://www.bd-pratidin.com/,LABEL_1,0.8965426683425903,True
+"হাসিনা দিনই সত্য কথা বলেননি, বিএনপি নেতা রিজভী",https://www.bd-pratidin.com/,LABEL_0,0.9541340470314026,True

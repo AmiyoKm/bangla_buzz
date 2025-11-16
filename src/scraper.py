@@ -14,6 +14,8 @@ SOURCES = [
     ("https://www.dhakapost.com/", "h3", ""),
     ("https://www.dhakapost.com/", "h2", ""),
     ("https://www.dhakapost.com/", "h1", ""),
+    ("https://www.bd-pratidin.com/", "h5", "lh-base"),
+    ("https://www.bd-pratidin.com/", "h5", "card-title")
 ]
 
 
@@ -31,8 +33,8 @@ def scrape_news():
 
         for title_tag in title_tags:
             title = title_tag.text.strip()
-            data_to_save.append([title, source])
-        print(len(title_tags))
+            if title:
+                data_to_save.append([title, source])
     headers = ["Title", "Source"]
 
     with open(csv_filename, "w", newline="", encoding="utf-8") as file:

@@ -2,9 +2,9 @@ import argparse
 from src.scraper import scrape_news
 from src.preprocess import preprocess_data
 
-
 from src.topics import find_topics
 from src.sentiment import analyze_sentiment
+from src.outlier import detect_outliers
 
 
 def run_scraping():
@@ -27,12 +27,9 @@ def run_sentiment_analysis():
     analyze_sentiment()
 
 
-def run_pagerank():
-    pass
-
-
 def run_outlier_detection():
-    pass
+    print("Running outlier detection...")
+    detect_outliers()
 
 
 def run_dashboard():
@@ -71,7 +68,6 @@ def main():
         run_preprocessing()
         run_topic_modeling()
         run_sentiment_analysis()
-        run_pagerank()
         run_outlier_detection()
         print("\nPipeline finished! Run with --dashboard to see the results.")
     else:
@@ -84,7 +80,6 @@ def main():
         if args.sentiment:
             run_sentiment_analysis()
         if args.pagerank:
-            run_pagerank()
         if args.outlier:
             run_outlier_detection()
         if args.dashboard:
