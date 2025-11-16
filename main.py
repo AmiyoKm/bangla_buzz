@@ -1,5 +1,7 @@
 import argparse
 from src.scraper import scrape_news
+from src.preprocess import preprocess_data
+
 
 def run_scraping():
     print("Running scraping...")
@@ -7,7 +9,8 @@ def run_scraping():
 
 
 def run_preprocessing():
-    pass
+    print("Running preprocessing...")
+    preprocess_data()
 
 
 def run_topic_modeling():
